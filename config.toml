@@ -1,0 +1,4 @@
+baseURL = "https://KQ4AFY.xyz/"
+languageCode = "en-us"
+title = "Amateur Radio Station : KQ4AFY"
+theme = [ "github.com/theNewDynamic/gohugo-theme-anake" ]
