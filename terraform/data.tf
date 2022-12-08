@@ -8,3 +8,7 @@ data "aws_acm_certificate" "this" {
   statuses    = ["ISSUED"]
   most_recent = true
 }
+
+data "aws_s3_bucket" "this" {
+  bucket = var.domain_name
+}
