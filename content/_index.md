@@ -1,8 +1,8 @@
 ---
 title: "CQ CQ KQ4AFY"
 
-description: "Station located in grid EL98he"
+description: "Station located in Central Florida grid EL98he"
 cascade:
   featured_image: '/images/20211003_092606.jpg'
 ---
-Welcome to my site. Please mind the dust!
+Welcome to the site. Please pardon the dust!

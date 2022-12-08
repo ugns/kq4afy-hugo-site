@@ -9,6 +9,7 @@ SectionPagesMenu = "main"
 Paginate = 3
 googleAnalytics = ""
 enableRobotsTXT = true
+enableGitInfo = true
 
 [sitemap]
   changefreq = "monthly"
@@ -17,7 +18,7 @@ enableRobotsTXT = true
 
 [params]
   text_color = "dark-gray"
-  author = ""
+  author = "KQ4AFY"
   favicon = ""
   site_logo = "/images/4556517.png"
   description = ""
