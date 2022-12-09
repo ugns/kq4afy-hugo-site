@@ -1,0 +1,17 @@
+title = "Amateur Radio Station"
+baseURL = "https://KQ4AFY.xyz/"
+Copyright = "Jeremy KQ4AFY"
+languageCode = "en-us"
+theme = [ "github.com/theNewDynamic/gohugo-theme-ananke" ]
+
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 3
+googleAnalytics = ""
+enableRobotsTXT = true
+enableGitInfo = true
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
