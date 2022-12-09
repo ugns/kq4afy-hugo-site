@@ -1,0 +1,57 @@
+name: Hugo
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+
+    permissions:
+      id-token: write
+      contents: read
+      pull-requests: write
+
+    defaults:
+      run:
+        shell: bash
+  
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 'latest'
+
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v1-node16
+        with:
+          role-to-assume: arn:aws:iam::${{ secrets.AWS_ACCOUNT_ID }}:role/ugns-gbl-github-actions
+          role-session-name: ugns-github-actions
+          aws-region: us-east-1
+
+      - name: Assume IAM Role
+        uses: aws-actions/configure-aws-credentials@v1-node16
+        with:
+          aws-access-key-id: ${{ env.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ env.AWS_SECRET_ACCESS_KEY }}
+          aws-session-token: ${{ env.AWS_SESSION_TOKEN }}
+          role-to-assume: arn:aws:iam::072105303426:role/GitHubActionsExecution
+          role-skip-session-tagging: true
+          aws-region: us-east-1
+
+      - name: Hugo Build
+        run: hugo --minify -e production
+
+      - name: Hugo Deploy (dry-run)
+        if: github.event_name == 'pull_request'
+        run: hugo deploy --dryRun --target AWS -e production
+
+      - name: Hugo Deploy
+        if: github.ref == 'refs/heads/main' && github.event_name == 'push'
+        run: hugo deploy --target AWS -e production

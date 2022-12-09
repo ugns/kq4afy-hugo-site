@@ -7,7 +7,7 @@ on:
   pull_request:
 
 jobs:
-  terraform:
+  deploy-infra:
     runs-on: ubuntu-latest
 
     permissions:
@@ -31,7 +31,7 @@ jobs:
         uses: aws-actions/configure-aws-credentials@v1-node16
         with:
           role-to-assume: arn:aws:iam::${{ secrets.AWS_ACCOUNT_ID }}:role/ugns-gbl-github-actions
-          role-duration-seconds: 1200
+          role-session-name: ugns-github-actions
           aws-region: us-east-1
 
       - name: Generate token
