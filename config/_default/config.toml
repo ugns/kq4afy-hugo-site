@@ -10,6 +10,7 @@ Paginate = 3
 googleAnalytics = ""
 enableRobotsTXT = true
 enableGitInfo = true
+uglyurls = true
 
 [sitemap]
   changefreq = "monthly"
