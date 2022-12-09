@@ -13,7 +13,7 @@ module "cdn" {
     {
       error_caching_min_ttl = null
       error_code            = "404"
-      response_code         = null
+      response_code         = "200"
       response_page_path    = "/404.html"
     }
   ]
