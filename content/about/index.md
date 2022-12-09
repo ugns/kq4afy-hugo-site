@@ -27,7 +27,7 @@ I am currently a member of the following clubs:
 * RTL-SDR USB
 * Digirig Mobile v1.9
 
-# Local Repeater
+# Local Repeaters
 
 | Frequency | Tone | Notes |
 | :--- | ---: | :---: |
