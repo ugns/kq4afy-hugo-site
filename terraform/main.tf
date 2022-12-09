@@ -12,8 +12,8 @@ module "cdn" {
   custom_error_response = [
     {
       error_caching_min_ttl = null
-      error_code            = "404"
-      response_code         = null
+      error_code            = 404
+      response_code         = 200
       response_page_path    = "/404.html"
     }
   ]
