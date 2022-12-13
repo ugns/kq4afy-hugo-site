@@ -18,7 +18,7 @@ I am currently a member of the following clubs:
 * [Solvita Radio Club (SRC)](https://solivitaradioclub.weebly.com/)
 * [ARRL](https://www.arrl.org/)
 
-# Station equipment
+## Station equipment
 
 * Yaesu FTM-400XDR
 * Comet CA-2X4SR NMO
@@ -27,7 +27,7 @@ I am currently a member of the following clubs:
 * RTL-SDR USB
 * Digirig Mobile v1.9
 
-# Local Repeaters
+## Local Repeaters
 
 | Frequency | Tone | Notes |
 | :--- | ---: | :---: |
