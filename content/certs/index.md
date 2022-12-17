@@ -8,7 +8,7 @@ menu:
     weight: 1
 ---
 Below is my progress on the available emergency communications courses offered. Clicking on the
-course name links will view my certificate of completion for that area of study.
+course name links will view my certificates of completion for that area of study as I progress.
 
 You can check out the following links for more information about the courses:
 
