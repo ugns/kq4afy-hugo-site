@@ -11,6 +11,7 @@ googleAnalytics = ""
 enableRobotsTXT = true
 enableGitInfo = true
 uglyurls = true
+DisqusShortname = "kq4afy"
 
 [sitemap]
   changefreq = "monthly"
