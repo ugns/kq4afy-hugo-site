@@ -12,7 +12,7 @@ I come to amateur radio after years of working in the technology field.
 My primary motivation for getting involved was emergency communications
 after having moved down to Florida.
 
-I am currently a member of the following clubs:
+## Club Affiliations
 
 * [Orlando Amateur Radio Club (OARC)](https://oarc.org/)
 * [Solvita Radio Club (SRC)](https://solivitaradioclub.weebly.com/)
@@ -31,12 +31,12 @@ I am currently a member of the following clubs:
 
 ## Local Repeaters
 
-| Frequency | Tone | Notes |
-| :--- | ---: | :---: |
-| 146.716- | C103.5 | N4SRC |
-| 146.940- | None | K4GCC |
-| 444.800+ | C103.5 | WA2UPK |
-| 444.625+ | C127.3 | WC4PEM |
-| 145.350- | C103.5 | KG4EOC |
-| 147.135+ | C107.2 | K4EOC |
-| 442.875+ | C123.0 | SARNet (Christmas) |
+| Frequency | Tone   | Notes |
+| :---      | ---:   | :---: |
+| 146.716-  | C103.5 | N4SRC |
+| 146.940-  | None   | K4GCC |
+| 444.800+  | C103.5 | WA2UPK |
+| 444.625+  | C127.3 | WC4PEM |
+| 145.350-  | C103.5 | KG4EOC |
+| 147.135+  | C107.2 | K4EOC |
+| 442.875+  | C123.0 | SARNet (Christmas) |
