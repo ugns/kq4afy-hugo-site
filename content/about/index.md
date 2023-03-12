@@ -20,11 +20,13 @@ I am currently a member of the following clubs:
 
 ## Station equipment
 
-* Yaesu FTM-400XDR
-* Comet CA-2X4SR NMO
+* Yaesu FTM-400XDR with Comet CA-2X4SR NMO
+* Yaesu FT-70D HT with Diamond Antenna SRH77CA
 * TIDRADIO TD-H6 HT
 * TIDRADIO TD-UV5RPro HT
 * RTL-SDR USB
+* Raspberry Pi ZeroW Pi-Star Hotspot
+* Raspberry Pi 3B Pi-Star Hotspot
 * Digirig Mobile v1.9
 
 ## Local Repeaters
