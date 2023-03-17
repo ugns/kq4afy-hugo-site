@@ -16,6 +16,7 @@ after having moved down to Florida.
 
 * [Orlando Amateur Radio Club (OARC)](https://oarc.org/)
 * [Solvita Radio Club (SRC)](https://solivitaradioclub.weebly.com/)
+* [Osceola County ARES](https://www.osceolacountyares.org/)
 * [ARRL](https://www.arrl.org/)
 
 ## Station equipment
