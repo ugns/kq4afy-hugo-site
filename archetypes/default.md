@@ -4,7 +4,7 @@ description: "To be filled out"
 summary: |
   To be filled out
 date: {{ .Date }}
-feature_image: ''
+featured_image: ''
 tags: []
 draft: true
 ---
