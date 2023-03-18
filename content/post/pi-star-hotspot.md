@@ -2,7 +2,7 @@
 title: "Pi-Star Hotspots"
 description: "Raspberry Pi Hotspot build assembly"
 summary: |
-  Living in a HOA goverend community I have found my resent hotspot build
+  Living in a HOA governed community I have found my recent hotspot build
   assembly to have greatly extended my reach with ham radio while still
   abiding by the rules of the community. I have built two hotspots, one I
   use when mobile and one for just around the house.
