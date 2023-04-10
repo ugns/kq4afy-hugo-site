@@ -8,6 +8,11 @@ body_classes = "avenir bg-near-white"
 recent_posts_number = 3
 
 [[ananke_socials]]
+  name = "pota"
+  label = "POTA"
+  url = "https://pota.app/#/profile/KQ4AFY"
+
+[[ananke_socials]]
   name = "github"
   url = "https://github.com/jbouse"
 
