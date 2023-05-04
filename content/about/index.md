@@ -12,6 +12,9 @@ I come to amateur radio after years of working in the technology field.
 My primary motivation for getting involved was emergency communications
 after having moved down to Florida.
 
+Living in an HOA governed community I do have certain limitations to how I operate
+so most of my operations are very portable.
+
 ## Club Affiliations
 
 * [Orlando Amateur Radio Club (OARC)](https://oarc.org/)
@@ -21,6 +24,7 @@ after having moved down to Florida.
 
 ## Station equipment
 
+* Yaesu FT-991A with MFJ-1910 33' Vertical on a MFJ-1919 tripod
 * Yaesu FTM-400XDR with Comet CA-2X4SR NMO
 * Yaesu FT-70D HT with Diamond Antenna SRH77CA
 * TIDRADIO TD-H6 HT
