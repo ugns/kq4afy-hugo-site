@@ -10,7 +10,7 @@ pinned: false
 series:
 #  - 
 categories:
-#  - 
+  - Projects
 tags:
 #  - 
 images:

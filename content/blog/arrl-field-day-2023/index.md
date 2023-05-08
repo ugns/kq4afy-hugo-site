@@ -10,10 +10,10 @@ pinned: false
 series:
 #  - 
 categories:
-  - events
+  - Events
 tags:
-  - arrl
-  - field day
+  - ARRL
+  - Field Day
 images:
   - 2023ARRLFDLogo.jpg
 # menu:

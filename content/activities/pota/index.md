@@ -2,9 +2,9 @@
 title: "Parks On The Air"
 date: 2023-05-07T00:20:55-04:00
 categories:
-  - events
+  - Events
 tags:
-  - pota
+  - POTA
 images:
   - pota-logo.png
 menu:

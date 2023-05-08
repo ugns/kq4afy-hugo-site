@@ -2,12 +2,12 @@
 title: "ARES/SKYWARN"
 date: 2023-05-07T00:20:55-04:00
 categories:
-  - community service
-  - events
+  - Community Service
+  - Events
 tags:
-  - ares
-  - arrl
-  - skywarn
+  - ARES
+  - ARRL
+  - SKYWARN
 images:
   - ares-skywarn.jpg
 menu:
