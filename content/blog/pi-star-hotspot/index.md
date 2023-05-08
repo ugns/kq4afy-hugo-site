@@ -10,17 +10,17 @@ pinned: true
 series:
 #  - 
 categories:
-#  - 
+  - Projects
 tags:
-    - raspberry
-    - pi
+    - Raspberry Pi
+    - Pi-Star
     - hotspot
-    - c4fm
-    - fusion
-    - system fusion
-    - uhf
-    - vhf
-    - nextion
+    - C4FM
+    - Fusion
+    - System Fusion
+    - UHF
+    - VHF
+    - Nextion
     - on7lds
 images:
   - 3b_duplex_pistar.png

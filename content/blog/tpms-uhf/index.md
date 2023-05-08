@@ -8,12 +8,12 @@ featured: false
 pinned: false
 # comments: false
 series:
-#  - 
+  - RFI
 categories:
 #  - 
 tags:
- - tpms
- - uhf
+ - TPMS
+ - UHF
  - interference
 images:
  - 20221011_124433.jpg
