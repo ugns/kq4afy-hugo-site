@@ -10,7 +10,7 @@ matchers:
   - pattern: ^.+\.(js|css|svg|ttf)$
     cacheControl: 'max-age=31536000, no-transform, public'
     gzip: true
-  - pattern: ^.+\.(png|jpg)$
+  - pattern: ^.+\.(png|jpg|webp)$
     cacheControl: 'max-age=31536000, no-transform, public'
     gzip: false
   - pattern: ^sitemap\.xml$
