@@ -10,9 +10,10 @@ images:
 menu:
   main:
     parent: activity
+    weight: 4
     params:
       icon:
-        vendor: fas
+        vendor: bs
         name: tree
         color: green
 authors:
