@@ -26,6 +26,13 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
+      - name: Setup node
+        uses: actions/setup-node@v3
+        with:
+          node-version: 'lts'
+
+      - run: npm ci
+
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
@@ -50,7 +57,7 @@ jobs:
           aws-region: us-east-1
 
       - name: Hugo Build
-        run: hugo --minify
+        run: hugo --gc --enableGitInfo --minify
 
       - name: Hugo Deploy (dry-run)
         if: github.event_name == 'pull_request'

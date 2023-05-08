@@ -31,5 +31,9 @@ override.tf.json
 *.auto.tfvars
 .terraform.lock.hcl
 
-resources/_gen
-public
+.hugo_build.lock
+hugo_stats.json
+package-json.lock
+public/
+node_modules/
+resources/
