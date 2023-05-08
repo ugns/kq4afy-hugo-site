@@ -2,6 +2,7 @@ order:
   - .jpg$
   - .png$
   - .gif$
+  - .webp$
 targets:
   - name: AWS
     URL: 's3://kq4afy.xyz?region=us-east-1'
