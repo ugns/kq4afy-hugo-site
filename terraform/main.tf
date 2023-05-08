@@ -10,6 +10,7 @@ module "cdn" {
   dns_alias_enabled           = true
   website_enabled             = true
   s3_website_password_enabled = true
+  allow_ssl_requests_only     = false
   price_class                 = "PriceClass_All"
   custom_error_response = [
     {
