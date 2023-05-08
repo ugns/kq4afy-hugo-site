@@ -1,0 +1,18 @@
+hb:
+  blog:
+    paginate: 12 # paginate.
+    # post_thumbnail: false # whether to show the thumbnails.
+    # post_date_format: ":date_long" # see https://gohugo.io/functions/dateformat/#datetime-formatting-layouts.
+    home: # homepage settings.
+      featured_posts: 5 # the number of the featured posts.
+      main_sections: # leave it empty to include all regular pages.
+        - docs
+        - blog
+  gallery:
+    paginate: 12
+    # thumbnail_size: "120x"
+  content_panel:
+    repo:
+      service: github # github or gitlab.
+      repo: ugns/kq4afy-hugo-site
+      branch: main

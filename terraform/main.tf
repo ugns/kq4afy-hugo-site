@@ -1,14 +1,16 @@
 module "cdn" {
   source  = "cloudposse/cloudfront-s3-cdn/aws"
-  version = "0.84.0"
+  version = "0.88.0"
 
-  namespace         = "kq4afy"
-  stage             = "use1"
-  name              = "cdn"
-  origin_bucket     = data.aws_s3_bucket.this.bucket
-  aliases           = [data.aws_route53_zone.this.name]
-  dns_alias_enabled = true
-  price_class       = "PriceClass_All"
+  namespace                   = "kq4afy"
+  stage                       = "use1"
+  name                        = "cdn"
+  origin_bucket               = data.aws_s3_bucket.this.bucket
+  aliases                     = [data.aws_route53_zone.this.name]
+  dns_alias_enabled           = true
+  website_enabled             = true
+  s3_website_password_enabled = true
+  price_class                 = "PriceClass_All"
   custom_error_response = [
     {
       error_caching_min_ttl = null

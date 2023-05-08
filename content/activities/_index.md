@@ -1,0 +1,12 @@
+---
+title: Activities
+menu:
+  main:
+    identifier: activity
+    weight: 1
+    params:
+      icon:
+        vendor: bs
+        name: radioactive
+        className: text-primary
+---
