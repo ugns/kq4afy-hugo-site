@@ -7,6 +7,6 @@ menu:
     params:
       icon:
         vendor: bs
-        name: radioactive
+        name: calendar-event
         className: text-primary
 ---
