@@ -8,7 +8,7 @@
   "platformAutomerge": true,
   "packageRules": [
     {
-      "matchManagers": ["gomod"],
+      "matchManagers": ["gomod", "github-actions", "npm", "terraform"],
       "matchDepTypes": ["indirect"],
       "matchUpdateTypes": ["minor", "patch", "pin", "digest"],
       "automerge": true,
