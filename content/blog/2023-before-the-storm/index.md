@@ -4,7 +4,7 @@ date: 2023-04-25T12:26:12-04:00
 draft: false
 description: 
 noindex: false
-featured: true
+featured: false
 pinned: true
 # comments: false
 series:
