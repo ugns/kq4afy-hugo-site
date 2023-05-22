@@ -18,4 +18,12 @@ resources:
     params:
       author: Winter Field Day 2023
       source: Solivita Radio Club
+  - src: 20230520_113056.jpg
+    params:
+      author: 2023 Before the Storm
+      source: Osceola County ARES
+  - src: 20230520_113538.jpg
+    params:
+      author: 2023 Before the Storm
+      source: Osceola County ARES
 ---
