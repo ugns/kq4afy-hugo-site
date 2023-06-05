@@ -5,7 +5,7 @@ github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20002/go.mod h1:Q6TrjM78
 github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2 v2.21100.20000/go.mod h1:mFberT6ZtcchrsDtfvJM7aAH2bDKLdOnruUHl0hlapI=
 github.com/hbstack/back-to-top v0.1.2/go.mod h1:/Hc4gkEbdaNLSd5j7jjYsvjl39UBX0bTO5/g4ltNfR0=
 github.com/hbstack/base v0.1.5/go.mod h1:HPH5RBlYR8QvGH/Qo5Do1uRd+1u4K2OmoD9zb3fsytQ=
-github.com/hbstack/bigger-picture v0.9.1/go.mod h1:CficQfdxEJx1U/5JOUOSgAqkH40XxdnSRcvLzsyHMl8=
+github.com/hbstack/bigger-picture v0.9.2/go.mod h1:CficQfdxEJx1U/5JOUOSgAqkH40XxdnSRcvLzsyHMl8=
 github.com/hbstack/blog v0.10.0/go.mod h1:D41YzxmW/tH4dxvRxaeApBVk7SLtm9AALokzF5aDSL4=
 github.com/hbstack/blog/modules/breadcrumb v0.1.2/go.mod h1:dO1yAUWsIFGH3KnIcI3CgV/7/udTLUNjKeEsLPre5gs=
 github.com/hbstack/blog/modules/content-panel v0.1.0/go.mod h1:q2RDn6UEtcFHB041i7U0V6IiyK4qE7hYFGc/3Pt3wxM=
@@ -35,7 +35,7 @@ github.com/hbstack/footer/modules/socials v0.1.4/go.mod h1:OFSOZad4lOf2h0dklopr/
 github.com/hbstack/gallery v0.4.1/go.mod h1:pEm/V68w0YISCUGftyZiArFMy4uqrjMu68CwbAVlIpE=
 github.com/hbstack/gallery/modules/breadcrumb v0.1.0/go.mod h1:7E1zwN0GC59OsXAUEALUiYWJhQw5hGPnpHfRHQDS/5Q=
 github.com/hbstack/hb v0.5.0/go.mod h1:37E1uTMQx1Hix+VdwlWkW74fi3ct5+KlCCBywv9l3Ac=
-github.com/hbstack/header v0.1.15/go.mod h1:TsYY9wkDKwcj1c0hzar97DXWOYqa1NW0Qg0XqcV9Zx8=
+github.com/hbstack/header v0.1.17/go.mod h1:YEYnlqmhotkQdFbSzN/ZQT55kLLfMdvVVIzEDMFgTz4=
 github.com/hbstack/header/modules/language-picker v0.1.2/go.mod h1:VW86iVj/CcopYTIrD0iRF+LBoUBPsYOwo580vIoqqrs=
 github.com/hbstack/header/modules/search v0.1.10/go.mod h1:eeSZZJKlq9M5xzXidY1TAKFISPSvVgWowCTMoY/Cj/s=
 github.com/hbstack/header/modules/socials v0.1.2/go.mod h1:upxii7TEX8dphHopQUJGk5KvAgfjGhccZUOhrVecAjg=
@@ -102,5 +102,5 @@ github.com/jakearchibald/idb v7.1.1+incompatible/go.mod h1:AuDoW54s2DKfbclM+Scrn
 github.com/krisk/Fuse v6.6.2+incompatible/go.mod h1:3moWv8rDjwoKic9nwiPLgZjldkbdTAbtzJHCu/Vsj4A=
 github.com/twbs/bootstrap v5.3.0-alpha3+incompatible/go.mod h1:fZTSrkpSf0/HkL0IIJzvVspTt1r9zuf7XlZau8kpcY0=
 github.com/twbs/icons v1.10.5/go.mod h1:GnRlymgVWp5iVJCMa0Me5b6tFyGpVc2bSxPMRGIJmyA=
-github.com/ugns/kq4afy-theme v0.0.0-20230506230504-390a4acd7e95 h1:DKwAjPXJtqO9I55eQInFIiz1371AfhkbV8eDGvY41e8=
-github.com/ugns/kq4afy-theme v0.0.0-20230506230504-390a4acd7e95/go.mod h1:+kLFSCayknUGoX9eHNM9vwa0BKfIeQ1O4E/GzNy3Sac=
+github.com/ugns/kq4afy-theme v0.0.0-20230512024501-f8bf0ab9b422 h1:blaKu2xCqqc51W0kapEBasOaBATHmCpzx7FbG0cY0Ik=
+github.com/ugns/kq4afy-theme v0.0.0-20230512024501-f8bf0ab9b422/go.mod h1:z6+/uV6o8Yo2OQ7bg6n3ueClNe6XPqzLSJaB30gvjd0=
