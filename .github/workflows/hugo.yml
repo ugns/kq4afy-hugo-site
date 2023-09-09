@@ -50,7 +50,7 @@ jobs:
         uses: aws-actions/configure-aws-credentials@v3
         with:
           role-to-assume: arn:aws:iam::072105303426:role/GitHubActionsExecution
-          role-session-name: ugns-github-actions
+          role-skip-session-tagging: true
           role-chaining: true
           aws-region: us-east-1
 
