@@ -29,13 +29,11 @@ I began working [POTA] as a hunter using remote HF stations through [RHR]. So my
 hunting was done primarialy from grids FN51 and FN54, but also a few contacts made from FN31 and EM73. Due the airtime costs I limited myself to FT8 digital mode which made for quicker
 contacts. 
 
-I now have my HF rig ([FT-991A]) and have picked up hunting from my QTH, in grid EL98. I do hope
-to start activating parks as soon as I acquire a LiFePO4 battery as I currently am using an
-Alinco 30A switching power supply only.
+I have my HF rig ([FT-991A]) and have picked up hunting from my QTH,in grid EL98. I have also recently acquired a Bioenno LiFePO4 battery so I am no longer dependent on the Alinco 30A switching power supply and have begun activating parks.
 
 Here below you can see my POTA stats or you can go check out my [POTA profile](https://pota.app/#/profile/KQ4AFY) directly.
 
-<iframe src="https://wd4dan.net/pota/?KQ4AFY&hunteronly" height="735" width="715" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://wd4dan.net/pota/?KQ4AFY" height="1250" width="715" frameborder="0" scrolling="no"></iframe>
 
 [POTA]: https://pota.app/ "Parks On The Air"
 [RHR]: https://www.remotehamradio.com/ "Remote Ham Radio"
