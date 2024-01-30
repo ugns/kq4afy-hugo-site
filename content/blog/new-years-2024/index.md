@@ -1,7 +1,7 @@
 ---
 title: "New Years 2024"
 date: 2024-01-03T15:24:22-05:00
-draft: true
+draft: false
 description: 
 noindex: false
 featured: true
