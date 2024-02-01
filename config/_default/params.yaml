@@ -1,13 +1,13 @@
 hb:
   blog:
-    paginate: 12 # paginate.
+    paginate: 9 # paginate.
     # post_thumbnail: false # whether to show the thumbnails.
     # post_date_format: ":date_long" # see https://gohugo.io/functions/dateformat/#datetime-formatting-layouts.
     home: # homepage settings.
       featured_posts: 6 # the number of the featured posts.
-      # main_sections: # leave it empty to include all regular pages.
+      main_sections: # leave it empty to include all regular pages.
+        - blog
       #   - docs
-      #   - blog
     social_share_buttons:
       alignment: center
       media: 

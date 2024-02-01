@@ -5,7 +5,7 @@ draft: false
 description: 
 noindex: false
 featured: true
-pinned: false
+pinned: true
 # comments: false
 series:
 #  - 

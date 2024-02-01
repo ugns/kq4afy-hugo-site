@@ -5,7 +5,7 @@ draft: false
 description: "Raspberry Pi Hotspot build assembly"
 noindex: false
 featured: true
-pinned: true
+pinned: false
 # comments: false
 series:
 #  - 
