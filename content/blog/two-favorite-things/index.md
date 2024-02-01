@@ -19,8 +19,6 @@ tags:
   - cruising
   - operating
   - overseas
-images:
-  - 20190416_150230.jpg
 # menu:
 #   main:
 #     weight: 100

@@ -13,8 +13,6 @@ categories:
   - Projects
 tags:
 #  - 
-images:
-#  - 
 # menu:
 #   main:
 #     weight: 100

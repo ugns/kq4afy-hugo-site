@@ -17,9 +17,6 @@ tags:
   - QRZ
   - MFJ-2982
   - GRA-7350T
-images:
-#   - MFJ-2982-QSO-Map.png
-  - GRA-7350T-QSO-Map.png
 # menu:
 #   main:
 #     weight: 100

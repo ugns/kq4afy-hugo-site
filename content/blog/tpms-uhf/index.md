@@ -15,8 +15,6 @@ tags:
  - TPMS
  - UHF
  - interference
-images:
- - 20221011_124433.jpg
 # menu:
 #   main:
 #     weight: 100

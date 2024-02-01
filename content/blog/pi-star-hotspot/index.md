@@ -22,8 +22,6 @@ tags:
     - VHF
     - Nextion
     - on7lds
-images:
-  - 3b_duplex_pistar.png
 # menu:
 #   main:
 #     weight: 100

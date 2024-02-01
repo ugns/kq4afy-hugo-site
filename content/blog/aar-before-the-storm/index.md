@@ -16,8 +16,6 @@ categories:
 tags:
   - ARES
   - weather
-images:
-  - beforethestorm.jpg
 # menu:
 #   main:
 #     weight: 100

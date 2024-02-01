@@ -15,9 +15,6 @@ tags:
   - ARRL
   - LotW
   - QRZ
-images:
-#   - MFJ-2982-QSO-Map.png
-  - NY24_QSO_Map.png
 # menu:
 #   main:
 #     weight: 100

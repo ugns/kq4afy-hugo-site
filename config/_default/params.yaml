@@ -11,9 +11,9 @@ hb:
     social_share_buttons:
       alignment: center
       media: 
-        facebook: "facebook"
-        twitter: "twitter"
-        linkedin: "linkedin"
+      - facebook
+      - twitter
+      - linkedin
   gallery:
     paginate: 12
     # thumbnail_size: "x120"

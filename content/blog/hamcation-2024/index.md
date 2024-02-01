@@ -15,8 +15,6 @@ tags:
   - ARRL
   - OARC
   - HamCation
-images:
-  - hamcation_400x400.jpg
 # menu:
 #   main:
 #     weight: 100

@@ -21,8 +21,6 @@ tags:
   - Wine
   - Linux
   - Windows 11
-images:
-  - 2023ARRLFDLogo.jpg
 # menu:
 #   main:
 #     weight: 100

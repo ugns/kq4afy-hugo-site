@@ -19,8 +19,6 @@ tags:
   - Raspberry Pi
   - N3FJP
   - Logging
-images:
-  - src-arrl-fd-2023.jpg
 # menu:
 #   main:
 #     weight: 100

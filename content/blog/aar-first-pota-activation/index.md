@@ -20,8 +20,6 @@ tags:
   - GridTracker
   - PSKReporter
   - GPS2Time
-images:
-  - k-6324-split-oak.jpg
 # menu:
 #   main:
 #     weight: 100

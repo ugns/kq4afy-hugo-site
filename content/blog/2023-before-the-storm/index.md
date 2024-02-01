@@ -15,8 +15,6 @@ categories:
 tags:
   - ARES
   - weather
-images:
-  - 2023beforethestorm.jpg
 # menu:
 #   main:
 #     weight: 100
