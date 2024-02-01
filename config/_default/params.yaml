@@ -8,6 +8,12 @@ hb:
       # main_sections: # leave it empty to include all regular pages.
       #   - docs
       #   - blog
+    social_share_buttons:
+      alignment: center
+      media: 
+        facebook: "facebook"
+        twitter: "twitter"
+        linkedin: "linkedin"
   gallery:
     paginate: 12
     # thumbnail_size: "x120"
