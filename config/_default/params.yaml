@@ -1,4 +1,10 @@
 hb:
+  header:
+    socials:
+      email: station@kq4afy.xyz
+  footer:
+    socials:
+      email: station@kq4afy.xyz
   blog:
     paginate: 9 # paginate.
     # post_thumbnail: false # whether to show the thumbnails.

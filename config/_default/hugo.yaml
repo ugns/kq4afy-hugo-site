@@ -15,6 +15,8 @@ module:
     - path: github.com/ugns/kq4afy-theme
     - path: github.com/hugomods/icons/vendors/mdi
     - path: github.com/hbstack/blog/modules/social-share-buttons
+    - path: github.com/hbstack/blog/modules/revision
+    - path: github.com/hbstack/announcement-bar
 
 outputs:
   home:
@@ -58,5 +60,5 @@ related:
     weight: 10
   - name: date
     weight: 10
-  threshold: 10 # for testing, increase it to suit your case.
+  threshold: 60 # for testing, increase it to suit your case.
   toLower: false
