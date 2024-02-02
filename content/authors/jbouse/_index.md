@@ -5,4 +5,5 @@ socials:
   github: jbouse
   paypal: KQ4AFY
   tiktok: butonlyone.life
+  email: operator@kq4afy.xyz
 ---

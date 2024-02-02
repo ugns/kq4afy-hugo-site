@@ -4,6 +4,7 @@ go 1.14
 
 require (
 	github.com/GoogleChrome/workbox v7.0.0+incompatible // indirect
+	github.com/KaTeX/KaTeX v0.16.9 // indirect
 	github.com/Templarian/MaterialDesign-SVG v7.4.47+incompatible // indirect
 	github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20200 // indirect
 	github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2 v2.21100.20000 // indirect
@@ -37,6 +38,7 @@ require (
 	github.com/hbstack/docs/modules/featured-image v0.2.8 // indirect
 	github.com/hbstack/docs/modules/heading-sign v0.1.9 // indirect
 	github.com/hbstack/docs/modules/toc-scrollspy v0.1.7 // indirect
+	github.com/hbstack/featured-image v0.1.2 // indirect
 	github.com/hbstack/footer v0.2.10 // indirect
 	github.com/hbstack/footer/modules/socials v0.2.5 // indirect
 	github.com/hbstack/gallery v0.11.0 // indirect
@@ -101,5 +103,5 @@ require (
 	github.com/krisk/Fuse v7.0.0+incompatible // indirect
 	github.com/twbs/bootstrap v5.3.2+incompatible // indirect
 	github.com/twbs/icons v1.11.3 // indirect
-	github.com/ugns/kq4afy-theme v0.0.0-20240202022041-e1fd50705743 // indirect
+	github.com/ugns/kq4afy-theme v0.0.0-20240202032527-030bd0cb12ec // indirect
 )
