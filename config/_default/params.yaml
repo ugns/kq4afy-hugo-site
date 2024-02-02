@@ -1,6 +1,25 @@
 hb:
   blog:
-    paginate: 9 # paginate.
+    sidebar:
+      profile:
+    #     # title: Profile title other than site title.
+        description: Amateur radio station operator
+        company: KQ4AFY
+        location: St. Cloud, FL
+        socials:
+          github: jbouse
+          paypal: KQ4AFY
+          tiktok: butonlyone.life
+          email: operator@kq4afy.xyz    #       github: hbstack
+    #       mastodon: https://techhub.social/@hbstack
+    #       rss: true
+      posts:
+        recent_count: 5 # the number of recent posts.
+        featured_count: 5 # the number of featured posts.
+      taxonomies:
+        count: true # whether to show the number of posts associated to the item.
+        limit: 10 # the maximum number of the item.
+    paginate: 12 # paginate.
     # post_thumbnail: false # whether to show the thumbnails.
     # post_date_format: ":date_long" # see https://gohugo.io/functions/dateformat/#datetime-formatting-layouts.
     home: # homepage settings.

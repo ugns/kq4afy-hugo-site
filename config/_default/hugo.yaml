@@ -13,12 +13,6 @@ permalinks:
 module:
   imports:
     - path: github.com/ugns/kq4afy-theme
-    - path: github.com/hugomods/icons/vendors/mdi
-    - path: github.com/hbstack/blog/modules/social-share-buttons
-    - path: github.com/hbstack/blog/modules/revision
-    - path: github.com/hbstack/announcement-bar
-    - path: github.com/hbstack/iframe
-    - path: github.com/hbstack/google-fonts
 
 outputs:
   home:
