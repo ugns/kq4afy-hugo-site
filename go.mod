@@ -1,6 +1,6 @@
 module github.com/jbouse/kq4afy-hugo-site
 
-go 1.14
+go 1.21
 
 require (
 	github.com/GoogleChrome/workbox v7.0.0+incompatible // indirect
@@ -103,5 +103,5 @@ require (
 	github.com/krisk/Fuse v7.0.0+incompatible // indirect
 	github.com/twbs/bootstrap v5.3.2+incompatible // indirect
 	github.com/twbs/icons v1.11.3 // indirect
-	github.com/ugns/kq4afy-theme v0.0.0-20240202032527-030bd0cb12ec // indirect
+	github.com/ugns/kq4afy-theme v0.0.0-20240202033713-71186167d739 // indirect
 )

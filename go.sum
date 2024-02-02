@@ -198,5 +198,5 @@ github.com/twbs/bootstrap v5.3.2+incompatible h1:tuiO5acc6xnZUR77Sbi5aKWXxjYxbms
 github.com/twbs/bootstrap v5.3.2+incompatible/go.mod h1:fZTSrkpSf0/HkL0IIJzvVspTt1r9zuf7XlZau8kpcY0=
 github.com/twbs/icons v1.11.3 h1:XhvrQ1XDom9ggBbQx3wQCFGEr8qAQwQP/dAcw8OXMtA=
 github.com/twbs/icons v1.11.3/go.mod h1:GnRlymgVWp5iVJCMa0Me5b6tFyGpVc2bSxPMRGIJmyA=
-github.com/ugns/kq4afy-theme v0.0.0-20240202032527-030bd0cb12ec h1:KO1JLYkxsdvlDw5bulHgTY7fpc8lUw7p7bREc5KLipI=
-github.com/ugns/kq4afy-theme v0.0.0-20240202032527-030bd0cb12ec/go.mod h1:xw06IH3NxEGT2OO7VXMTa/uc7EOnPO9RuhuuAx7j+Ec=
+github.com/ugns/kq4afy-theme v0.0.0-20240202033713-71186167d739 h1:qApPEx8MBmbEkFDlfS+vI+7beBS5OIIfA1UQF/nWsjY=
+github.com/ugns/kq4afy-theme v0.0.0-20240202033713-71186167d739/go.mod h1:ZFdmdDMSpNoJh35SREmMbrjdtMzA4RseU5H9JzTsb8M=
