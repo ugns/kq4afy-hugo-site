@@ -1,10 +1,4 @@
 hb:
-  header:
-    socials:
-      email: station@kq4afy.xyz
-  footer:
-    socials:
-      email: station@kq4afy.xyz
   blog:
     paginate: 9 # paginate.
     # post_thumbnail: false # whether to show the thumbnails.
@@ -21,14 +15,23 @@ hb:
       - facebook
       - twitter
       - linkedin
+  content_panel:
+    repo:
+      service: github # github or gitlab.
+      repo: ugns/kq4afy-hugo-site
+      branch: main
+  footer:
+    socials:
+      email: station@kq4afy.xyz
   gallery:
     date_sort_order: asc
     highlight_images_count: 10
     highlight_images_recursive: false
     paginate: 12
     thumbnail_size: x120
-  content_panel:
-    repo:
-      service: github # github or gitlab.
-      repo: ugns/kq4afy-hugo-site
-      branch: main
+  google_fonts:
+    families:
+      - name: Roboto
+  header:
+    socials:
+      email: station@kq4afy.xyz

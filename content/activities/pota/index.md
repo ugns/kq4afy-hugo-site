@@ -33,7 +33,7 @@ I have my HF rig ([FT-991A]) and have picked up hunting from my QTH,in grid EL98
 
 Here below you can see my POTA stats or you can go check out my [POTA profile](https://pota.app/#/profile/KQ4AFY) directly.
 
-<iframe src="https://wd4dan.net/pota/?KQ4AFY" height="1250" width="715" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://pota-stats.wd4dan.net/?call=KQ4AFY" height="1250" width="1000" frameborder="0" scrolling="no"></iframe>
 
 [POTA]: https://pota.app/ "Parks On The Air"
 [RHR]: https://www.remotehamradio.com/ "Remote Ham Radio"

@@ -23,6 +23,7 @@
     "../../../.cache/hugo_cache/modules/filecache/modules/pkg/mod/github.com/hbstack/header/modules/theme-toggle@v0.4.4/assets/*",
     "../../../.cache/hugo_cache/modules/filecache/modules/pkg/mod/github.com/hbstack/header@v0.12.7/assets/*",
     "../../../.cache/hugo_cache/modules/filecache/modules/pkg/mod/github.com/hbstack/heading-sign@v0.2.0/assets/*",
+    "../../../.cache/hugo_cache/modules/filecache/modules/pkg/mod/github.com/hbstack/iframe@v0.1.1/assets/*",
     "../../../.cache/hugo_cache/modules/filecache/modules/pkg/mod/github.com/hbstack/progress-bar@v0.1.0/assets/*",
     "../../../.cache/hugo_cache/modules/filecache/modules/pkg/mod/github.com/hbstack/slide@v0.3.1/assets/*",
     "../../../.cache/hugo_cache/modules/filecache/modules/pkg/mod/github.com/hbstack/toc-scrollspy@v0.1.0/assets/*",
@@ -34,7 +35,7 @@
     "../../../.cache/hugo_cache/modules/filecache/modules/pkg/mod/github.com/jakearchibald/idb@v8.0.0+incompatible/src/*",
     "../../../.cache/hugo_cache/modules/filecache/modules/pkg/mod/github.com/krisk/!fuse@v7.0.0+incompatible/dist/*",
     "../../../.cache/hugo_cache/modules/filecache/modules/pkg/mod/github.com/twbs/bootstrap@v5.3.2+incompatible/js/*",
-    "../../../.cache/hugo_cache/modules/filecache/modules/pkg/mod/github.com/ugns/kq4afy-theme@v0.0.0-20240202032527-030bd0cb12ec/assets/*"
+    "../../../.cache/hugo_cache/modules/filecache/modules/pkg/mod/github.com/ugns/kq4afy-theme@v0.0.0-20240202033713-71186167d739/assets/*"
    ]
   }
  }
