@@ -13,18 +13,23 @@ menu:
 resources:
   - src: IS-100.C_certificate.png
     params:
-      author: FEMA
-      source: IS-100.C certificate
+      source: FEMA
+      caption: IS-100.C - Intro to ICS
+      date: 2022-10-22
   - src: IS-700.B_certificate.png
     params:
-      author: FEMA
-      source: IS-700.B certificate
+      source: FEMA
+      caption: IS-700.B - Intro to NIMS
+      date: 2024-02-14
+
   - src: RoleSkywarnSpotter.png
     params:
-      author: COMET
-      source: Role of the Skywarn Spotter certificate
+      source: COMET
+      caption: Role of the Skywarn Spotter
+      date: 2022-10-26
   - src: SkywarnSpotterConvectiveBasics.png
     params:
-      author: COMET
-      source: Skywarn Spotter Covective Basics certificate
+      source: COMET
+      caption: Skywarn Spotter Covective Basics
+      date: 2022-10-26
 ---
