@@ -34,6 +34,7 @@ resources:
     params:
       caption: ARRL Field Day 2023
       source: Solivita Radio Club
+
   - src: img-5899.jpeg
     params:
       caption: Winter Field Day 2023
@@ -42,6 +43,7 @@ resources:
     params:
       caption: Winter Field Day 2023
       source: Solivita Radio Club
+
   - src: 20230520_113056.jpg
     params:
       caption: 2023 Before the Storm
@@ -50,4 +52,13 @@ resources:
     params:
       caption: 2023 Before the Storm
       source: Osceola County ARES
+
+  # - src: 20240207_123229.jpg
+  #   params:
+  #     caption: Orlando HamCation 2024
+  #     source: Orlando HamCation
+  - src: 20240209_171039.jpg
+    params:
+      caption: Orlando HamCation 2024
+      source: Orlando HamCation
 ---
