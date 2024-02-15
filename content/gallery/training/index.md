@@ -16,6 +16,11 @@ resources:
       source: FEMA
       caption: IS-100.C - Intro to ICS
       date: 2022-10-22
+  - src: IS-200.C_certificate.png
+    params:
+      source: FEMA
+      caption: IS-200.C - Basic ICS for Initial Response
+      date: 2024-02-15
   - src: IS-700.B_certificate.png
     params:
       source: FEMA
