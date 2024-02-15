@@ -7,8 +7,9 @@ menu:
     params:
       icon:
         vendor: fas
-        name: trophy
-      description: My Awards.
+        name: award
+        color: gold
+      description: My Achievements.
 # resources:
 #   - src: 20230509_175049.jpg
 #     params:

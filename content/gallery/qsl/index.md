@@ -9,6 +9,6 @@ menu:
         vendor: bs
         name: postcard
         className: text-primary-emphasis
-      description: All QSL cards received.
+      description: QSL cards received.
 resources:
 ---
