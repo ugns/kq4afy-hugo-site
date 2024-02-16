@@ -134,6 +134,8 @@ github.com/hbstack/syntax-highlighting/styles/github-dark v0.1.1 h1:2epjvfTmU0fE
 github.com/hbstack/syntax-highlighting/styles/github-dark v0.1.1/go.mod h1:Ho2j01IBLlAuDygUcVsOXUwPJ/Q4aL769sWa/pri1Mc=
 github.com/hbstack/syntax-highlighting/styles/gruvbox v0.1.1 h1:IzJlnkHGS8XhibNjUFvyV3YE7rc7WMsAhdxWZTbORI4=
 github.com/hbstack/syntax-highlighting/styles/gruvbox v0.1.1/go.mod h1:ar5ZFplNyVZCVG6rvo69co1hNZwptxtrDz3zproGLPg=
+github.com/hbstack/theme-cards v0.1.1 h1:x4rupfKrv3xxEy80lzenTwsbzCUSLHXyb9CzW4JJelk=
+github.com/hbstack/theme-cards v0.1.1/go.mod h1:grBCoimeFOh4iTK8bnVD0uoZG2KE8yBiTGkGRh2Bgmk=
 github.com/hbstack/toc-scrollspy v0.1.0 h1:sr9HidxHVYeSZR1FVOGQzphONSsct/OscbWPSV+vMlo=
 github.com/hbstack/toc-scrollspy v0.1.0/go.mod h1:wIqdWFRjqGGKX6Y5XVRQzaBBeZ91kZBKgovQp8IPvtk=
 github.com/henrygd/bigger-picture v1.1.14 h1:cyLougM5oeL3+lwrwFgeklwBd54nJWxXadt53E4r5Lk=

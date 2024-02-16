@@ -26,6 +26,7 @@
     "../../../.cache/hugo_cache/modules/filecache/modules/pkg/mod/github.com/hbstack/iframe@v0.1.1/assets/*",
     "../../../.cache/hugo_cache/modules/filecache/modules/pkg/mod/github.com/hbstack/progress-bar@v0.1.0/assets/*",
     "../../../.cache/hugo_cache/modules/filecache/modules/pkg/mod/github.com/hbstack/slide@v0.3.1/assets/*",
+    "../../../.cache/hugo_cache/modules/filecache/modules/pkg/mod/github.com/hbstack/theme-cards@v0.1.1/assets/*",
     "../../../.cache/hugo_cache/modules/filecache/modules/pkg/mod/github.com/hbstack/toc-scrollspy@v0.1.0/assets/*",
     "../../../.cache/hugo_cache/modules/filecache/modules/pkg/mod/github.com/henrygd/bigger-picture@v1.1.14/dist/*",
     "../../../.cache/hugo_cache/modules/filecache/modules/pkg/mod/github.com/hugomods/code-block-panel@v0.5.0/assets/*",
