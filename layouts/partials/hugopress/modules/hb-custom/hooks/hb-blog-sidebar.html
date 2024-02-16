@@ -1,0 +1,14 @@
+{{- with site.Params.hb.blog.sidebar.profile }}
+  <div
+    class="hb-blog-sidebar-profile hb-module d-flex flex-column justify-content-center align-items-center">
+    <p class="hb-blog-sidebar-profile-title text-center h5 mb-2">
+      <a href="https://hamshackhotline.com/" target="_blank" rel="noopener noreferrer">Hamshack Hotline</a>
+    </p>
+    <p class="hb-blog-sidebar-profile-meta text-center mb-2">
+      {{- with .hotline }}
+        {{- partial "icons/icon" (dict "vendor" "bootstrap" "name" "telephone" "className" "me-1") -}}
+        {{- . | markdownify -}}
+      {{- end }}
+    </p>
+  </div>
+{{- end }}

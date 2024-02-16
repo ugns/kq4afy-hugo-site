@@ -2,13 +2,16 @@ hb:
   blog:
     sidebar:
       profile:
-    #     # title: Profile title other than site title.
         description: Amateur radio station operator
         company: KQ4AFY
         location: St. Cloud, FL
-        socials:
+        hotline: 6100001659
+        socials: &my_socials
+          _color: false
           github: jbouse
           paypal: KQ4AFY
+          telegram: KQ4AFY
+          discord: rfT2kzvjfq
           tiktok: butonlyone.life
           email: operator@kq4afy.xyz    #       github: hbstack
     #       mastodon: https://techhub.social/@hbstack
@@ -21,7 +24,7 @@ hb:
         limit: 10 # the maximum number of the item.
     paginate: 12 # paginate.
     # post_thumbnail: false # whether to show the thumbnails.
-    # post_date_format: ":date_long" # see https://gohugo.io/functions/dateformat/#datetime-formatting-layouts.
+    post_date_format: ":date_full" # see https://gohugo.io/functions/dateformat/#datetime-formatting-layouts.
     home: # homepage settings.
       featured_posts: 5 # the number of the featured posts.
       main_sections: # leave it empty to include all regular pages.
@@ -41,7 +44,7 @@ hb:
       branch: main
   footer:
     socials:
-      email: station@kq4afy.xyz
+      <<: *my_socials
   gallery:
     date_sort_order: asc
     highlight_images_count: 10
@@ -53,4 +56,6 @@ hb:
       - name: Roboto
   header:
     socials:
-      email: station@kq4afy.xyz
+      <<: *my_socials
+  revision:
+    date_format: :date_medium
