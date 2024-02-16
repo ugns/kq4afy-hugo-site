@@ -1,5 +1,5 @@
 ---
-title: "Awards"
+title: "Acheivements"
 date: 2023-03-17T23:20:45-04:00
 menu:
   main:
