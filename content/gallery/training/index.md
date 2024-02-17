@@ -26,6 +26,11 @@ resources:
       source: FEMA
       caption: IS-700.B - Intro to NIMS
       date: 2024-02-14
+  - src: IS-800.D_certificate.png
+    params:
+      source: FEMA
+      caption: IS-800.D - National Response Framework Intro
+      date: 2024-02-17
 
   - src: RoleSkywarnSpotter.png
     params:
