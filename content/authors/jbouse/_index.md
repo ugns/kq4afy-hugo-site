@@ -4,6 +4,7 @@ email_hash: 7ed137bc74aa906a562434ca1f8ea515
 socials:
   github: jbouse
   paypal: KQ4AFY
+  telegram: KQ4AFY
   tiktok: butonlyone.life
-  email: operator@kq4afy.xyz
+  email: operator@kq4afy.xyz 
 ---
