@@ -5,7 +5,7 @@ hb:
         description: Amateur radio station operator
         company: KQ4AFY
         location: St. Cloud, FL
-        hotline: 6100001659
+        hotline: 610-000-1659
         socials: &my_socials
           _color: false
           github: jbouse
