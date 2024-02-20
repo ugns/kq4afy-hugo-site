@@ -31,6 +31,11 @@ resources:
       source: FEMA
       caption: IS-800.D - National Response Framework Intro
       date: 2024-02-17
+  - src: IS-288.A_certificate.png
+    params:
+      source: FEMA
+      caption: IS-288.A - Role of Voluntary Organizations in EM
+      date: 2024-02-19
 
   - src: RoleSkywarnSpotter.png
     params:
