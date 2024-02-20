@@ -25,7 +25,7 @@ For me this is no exception.
 
 I began working [POTA] as a hunter using remote HF stations through [RHR]. So my initial
 hunting was done primarialy from grids FN51 and FN54, but also a few contacts made from FN31 and EM73. Due the airtime costs I limited myself to FT8 digital mode which made for quicker
-contacts. 
+contacts.
 
 I have my HF rig ([FT-991A]) and have picked up hunting from my QTH,in grid EL98. I have also recently acquired a Bioenno LiFePO4 battery so I am no longer dependent on the Alinco 30A switching power supply and have begun activating parks. I operate with a couple of different vertical antennas
 that are portable and quick to set up. I still operate mostly digital (FT8 and FT4) while still doing
