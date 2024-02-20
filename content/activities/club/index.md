@@ -7,8 +7,6 @@ tags:
   - OARC
   - SRC
   - ARRL
-images:
-  - radio-club-logos.png
 menu:
   main:
     parent: activity
@@ -39,14 +37,17 @@ away from it. I used to be able to hit it with a 8-10W HT, but now I
 have struggled with my FTM-400XDR in my vehicle parked in my drive-way.
 
 I am also an active member with the [Orlando Amateur Radio Club][OARC]
-that meets on the first Wednesday of the month up at the Central Florida
-Fairgrounds in Orlando, FL. I've volunteered with OARC for Orlando
-HamCation in 2023 for the first time.
+that meets on the first Wednesday of the month up at the Beardall
+Senior Center in Orlando, FL. I volunteered with OARC for Orlando
+[HamCation][HAMCATION] in 2023 while attending for my first time. In
+2024 I stepped up and joined the HamCation committee as an Assistant
+Security Chairman.
 
 Along with the local clubs, I am also a member of the [ARRL]. Both
 [SRC] and [OARC] are ARRL Affliated clubs. I've enjoyed taking part in
-the Winter Field Day and looking forward to the upcoming Summer Field
-Day working with SRC. I also use the [Logbook of the World][LotW]
+[Winter Field Day][WFD] and [Summer Field Day][ARRLFD] working with SRC.
+
+I also use the [Logbook of the World][LotW]
 to log my HF contacts. I have also been participating in the [VOTA]
 event going on this year.
 
@@ -55,3 +56,6 @@ event going on this year.
 [ARRL]: https://www.arrl.org/ "American Radio Relay League"
 [LotW]: https://lotw.arrl.org/ "Logbook of the World"
 [VOTA]: https://vota.arrl.org/ "Volunteers on the Air 2023"
+[HAMCATION]: https://www.hamcation.com/ "Orlando HamCation"
+[WFD]: https://winterfieldday.org/ "Winter Field Day"
+[ARRLFD]: https://field-day.arrl.org/ "ARRL Field Day"
