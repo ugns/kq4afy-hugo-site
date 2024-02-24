@@ -8,7 +8,7 @@ featured: true
 pinned: false
 # comments: false
 series:
- - Cruising
+  - Cruising
 categories:
   - Travel
 tags:
