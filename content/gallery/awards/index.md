@@ -59,6 +59,12 @@ resources:
       caption: Park to Park - 25 Parks
       date: 2023-10-30
 
+  - src: KQ4AFY_POTA_Bronze_Activator.png
+    params:
+      source: POTA
+      caption: Bronze Activator - 10 Parks
+      date: 2024-02-26
+
   - src: KQ4AFY_POTA_New_Years_Activator.png
     params:
       source: POTA
