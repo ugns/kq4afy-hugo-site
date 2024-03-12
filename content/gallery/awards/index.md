@@ -14,55 +14,55 @@ resources:
   - src: KQ4AFY_POTA_Bronze_Hunter.png
     params:
       source: POTA
-      caption: Bronze Hunter - 10 Parks
+      caption: Bronze Hunter - 10 units
       date: 2023-04-12
   - src: KQ4AFY_POTA_Silver_Hunter.png
     params:
       source: POTA
-      caption: Silver Hunter - 20 Parks
+      caption: Silver Hunter - 20 units
       date: 2023-04-18
   - src: KQ4AFY_POTA_Gold_Hunter.png
     params:
       source: POTA
-      caption: Gold Hunter - 30 Parks
+      caption: Gold Hunter - 30 units
       date: 2023-04-23
   - src: KQ4AFY_POTA_Platinum_Hunter.png
     params:
       source: POTA
-      caption: Platinum Hunter - 40 Parks
+      caption: Platinum Hunter - 40 units
       date: 2023-09-13
   - src: KQ4AFY_POTA_Diamond_Hunter.png
     params:
       source: POTA
-      caption: Diamond Hunter - 50 Parks
+      caption: Diamond Hunter - 50 units
       date: 2023-09-15
   - src: KQ4AFY_POTA_Sapphire_Hunter.png
     params:
       source: POTA
-      caption: Sapphire Hunter - 75 Parks
+      caption: Sapphire Hunter - 75 units
       date: 2023-10-17
   - src: KQ4AFY_POTA_Arizona_Agave_Hunter.png
     params:
       source: POTA
-      caption: Arizona Agave Hunter - 100 Parks
+      caption: Arizona Agave Hunter - 100 units
       date: 2023-10-21
 
   - src: KQ4AFY_POTA_DX_Hunter_5.png
     params:
       source: POTA
-      caption: DX Hunter - 5 Entites
+      caption: DX Hunter - 5 Entities
       date: 2023-11-08
 
   - src: KQ4AFY_POTA_Park_to_Park_25.png
     params:
       source: POTA
-      caption: Park to Park - 25 Parks
+      caption: Park to Park - 25 QSOs
       date: 2023-10-30
 
   - src: KQ4AFY_POTA_Bronze_Activator.png
     params:
       source: POTA
-      caption: Bronze Activator - 10 Parks
+      caption: Bronze Activator - 10 units
       date: 2024-02-26
 
   - src: KQ4AFY_POTA_New_Years_Activator.png
