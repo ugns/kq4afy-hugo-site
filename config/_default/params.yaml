@@ -1,4 +1,5 @@
 hb:
+  full_width: false
   blog:
     sidebar:
       profile:
@@ -12,9 +13,9 @@ hb:
           telegram: KQ4AFY
           discord: rfT2kzvjfq
           tiktok: butonlyone.life
-          email: operator@kq4afy.xyz    #       github: hbstack
+          email: operator@kq4afy.xyz
     #       mastodon: https://techhub.social/@hbstack
-    #       rss: true
+          rss: true
       posts:
         recent_count: 5 # the number of recent posts.
         featured_count: 5 # the number of featured posts.
@@ -44,6 +45,7 @@ hb:
   footer:
     socials:
       <<: *my_socials
+      _color: false
   gallery:
     date_sort_order: asc
     highlight_images_count: 10
