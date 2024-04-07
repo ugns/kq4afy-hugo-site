@@ -2,3 +2,23 @@
 #   title: Hope to see you @ Orlando HamCation - Feb 9-11, 2024
 #   url: blog/hamcation-2024
 #   weight: 1
+
+msc-cruise:
+  title: Operation POTA Cruise while sailing on MSC Seashore
+  url: series/cruising
+  weight: 1
+
+license:
+  title: URCA & OfReg issue operating licenses
+  url: gallery/license
+  weight: 2
+
+bs-np-eclipse:
+  title: POTA activation of BS-0025 during the Solar Eclipse
+  url: blog/cruise-approaches
+  weight: 5
+
+ky-gt-pota:
+  title: Plan to operate POTA from George Town, Cayman Islands
+  url: blog/cruise-approaches
+  weight: 10
