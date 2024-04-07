@@ -29,27 +29,25 @@ resources:
   - src: 20240107_104400.jpg
     params:
       author: KQ4AFY
-      caption: Mark I PREDator antenna testing for POTA Activation at K-1893
+      caption: Mark I PREDator antenna testing for POTA Activation at US-1893
   - src: 20240107_115036.jpg
     params:
       author: KQ4AFY
-      caption: Mark I PREDator antenna testing for POTA Activation at K-1893
+      caption: Mark I PREDator antenna testing for POTA Activation at US-1893
   - src: 20240225_145327.jpg
     params:
       author: KQ4AFY
-      caption: POTA 2-fer Activation at K-0896 & K-3634
+      caption: POTA 2-fer Activation at US-0896 & US-3634
   - src: 20240225_170234.jpg
     params:
       author: KQ4AFY
-      caption: POTA Activation at K-1842
+      caption: POTA Activation at US-1842
   - src: 20240225_173233.jpg
     params:
       author: KQ4AFY
-      caption: POTA Activation at K-1842
+      caption: POTA Activation at US-1842
   - src: 20240225_175030.jpg
     params:
       author: KQ4AFY
-      caption: POTA Activation at K-1842
+      caption: POTA Activation at US-1842
 ---
-
-[K-1893]: https://pota.app/#/park/K-1893 "Lake Louisa State Park"
