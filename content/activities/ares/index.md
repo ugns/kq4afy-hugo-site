@@ -36,7 +36,7 @@ on [FDEM] SERT TRAC so I can register and attend classes not IS.
 I have begun the process of going through all recommended emergency
 management courses outlined in both the [ARRL ARES][ARESPTB]:registered: and the
 [Florida Tri-Section ARES][FLARESPTB]:registered: Training Plan Task Books.
-My progress can be seen by my [certificates of completion]({{< relref "gallery/training" >}}).
+My progress can be seen by my [certificates of completion]({{< ref "gallery/training" >}}).
 
 I have also gone through the NOAA National Weather Service [SKYWARN]:registered: training offered through the Melbourne, FL Weather Forecast Office
 annually and have received my spotter ID.
