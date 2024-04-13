@@ -25,13 +25,13 @@ so getting involved with ARES and becoming a NWS [SKYWARN]:registered: Spotter s
 
 <!--more-->
 
-I am a member of [Osceola County ARES](https://www.osceolacountyares.org/):registered: which meets
+I am serving as a board member of [Osceola ARES](https://www.osceolacountyares.org/):registered: which meets
 on the last Monday of the month at the Osceola County Emergency Operations Center in
 Kissimmee, FL. I have helped staff the ARES :registered: booth at the county hurricane preparedness
 event as well as attending monthly meetings and weekly nets.
 
-I have registered on [FEMA EMI][FEMA] so I can work through the
-Indepedent Study (IS) courses available. I have also registered
+I am registered on [FEMA EMI][FEMA] so I can work through the
+Indepedent Study (IS) courses available. I am also registered
 on [FDEM] SERT TRAC so I can register and attend classes not IS.
 I have begun the process of going through all recommended emergency
 management courses outlined in both the [ARRL ARES][ARESPTB]:registered: and the
