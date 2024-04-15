@@ -119,7 +119,7 @@ When I went through port security at the cruise terminal during embarkation, sec
 
 Proper procedure would have been port security notified the ship, who would then greet me and take custody of the radio while onboard. Then when going off the ship and needing it security would bring it to the gangway and again collect it when returning to the ship as happened for me at Nassau and George Town, but the ship would have been prepared for this. I will then expect to receive my radio when we are back in port to disembark the ship.
 
-### Final thoughts
+## Final thoughts
 
 Technically my Yaesu FT-70D and Icom ID-52A HTs should have also been confiscated and held in security according to Sheila as they were not FRS radios which the cruise line does not have an issue with as they operate only on fixed frequencies with limited power which won't interfere with ships operations. 
 
