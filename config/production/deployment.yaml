@@ -5,17 +5,19 @@ order:
   - .webp$
 targets:
   - name: AWS
-    URL: 's3://kq4afy.xyz?region=us-east-1'
-    cloudFrontDistributionID: E24XCU50JVWOD5
+    URL: "S3_BUCKET_URL"
+    cloudFrontDistributionID: CLOUDFRONT_DISTRIBUTION_ID
 matchers:
-  - pattern: ^.+\.(js|css|svg|ttf)$
-    cacheControl: 'max-age=31536000, no-transform, public'
+  - pattern: ^.+\.(js|css|md|otf|svg|ttf|txt)$
+    cacheControl: 'max-age=604800, no-transform, public'
     gzip: true
-  - pattern: ^.+\.(png|jpg|webp)$
-    cacheControl: 'max-age=31536000, no-transform, public'
+  - pattern: ^.+\.(bmp|gif|ico|jpeg|jpg|mp3|mp4|pdf|png|rss|tiff|woff|woff2)$
+    cacheControl: 'max-age=604800, no-transform, public'
     gzip: false
   - pattern: ^sitemap\.xml$
     contentType: application/xml
+    cacheControl: "max-age=3600, no-transform, public"
     gzip: true
   - pattern: ^.+\.(html|xml|json)$
+    cacheControl: "max-age=3600, no-transform, public"
     gzip: true
