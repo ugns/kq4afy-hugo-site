@@ -35,7 +35,7 @@ It's finally Cruise Day! So let's get aboard [MSC][MSC] [Seashore][SEASHORE] and
 
 ## POTA Operations
 
-So my major goal of this cruise was to take advantage of the intinerary and activate [POTA] parks in the Bahamas and Cayman Islands that I might not otherwise get the chance to do. I knew I was not going to be able to do so in Falmouth, Jamaica and Cozumel, Mexico. Our Jamaica port had changed from Ocho Rios to Falmouth after booking and while I was unable to acquire the necessary visitor license in time it was fine as Falmouth did not have an [POTA] parks located nearby like Ocho Rios did. Mexico was never an option as they currently have no reciprocal agreement with the United States so I would not have been able to operate anyway.
+So my major goal of this cruise was to take advantage of the itinerary and activate [POTA] parks in the Bahamas and Cayman Islands that I might not otherwise get the chance to do. I knew I was not going to be able to do so in Falmouth, Jamaica and Cozumel, Mexico. Our Jamaica port had changed from Ocho Rios to Falmouth after booking and while I was unable to acquire the necessary visitor license in time it was fine as Falmouth did not have an [POTA] parks located nearby like Ocho Rios did. Mexico was never an option as they currently have no reciprocal agreement with the United States so I would not have been able to operate anyway.
 
 ### Nassau, Bahamas
 
@@ -49,7 +49,7 @@ I had the Gabil Radio [GRA-7350T] antenna setup and had checked with my RigExper
 
 ### Hams everywhere
 
-After dinner, I got the wife back to our stateroom and then went to take our water bottles up to the buffet on deck 16 to refill them with water before I took my laptop to find a place to sit and prepare my logs from the day. While waiting at the elevator, I had a gentleman walk up and introduce himself as [W0WD] as he shook my hand. I had been wearing my [OARC] shirt still with my name and callsign on it, again I am crusing in "stealth mode" after all! I immediately recognized the callsign as net control from the [LISATS] repeater, K4GCC, that covers the space launches. We've spoken over the air on several past occasions when I've been over to the Space Coast to watch a launch, but this was the first time we had met in person. We spent the elevator ride up talking about radio and I had mentioned I'd brought mine aboard and operated [POTA] today while we were in port. He said when I don't hear him running net control for the launches it was because he was here on a cruise ship.
+After dinner, I got the wife back to our stateroom and then went to take our water bottles up to the buffet on deck 16 to refill them with water before I took my laptop to find a place to sit and prepare my logs from the day. While waiting at the elevator, I had a gentleman walk up and introduce himself as [W0WD] as he shook my hand. I had been wearing my [OARC] shirt still with my name and callsign on it, again I am cruising in "stealth mode" after all! I immediately recognized the callsign as net control from the [LISATS] repeater, K4GCC, that covers the space launches. We've spoken over the air on several past occasions when I've been over to the Space Coast to watch a launch, but this was the first time we had met in person. We spent the elevator ride up talking about radio and I had mentioned I'd brought mine aboard and operated [POTA] today while we were in port. He said when I don't hear him running net control for the launches it was because he was here on a cruise ship.
 
 ### George Town, Cayman Islands
 
@@ -57,7 +57,7 @@ With my radio in security's custody, and all the assurances that I would have no
 
 ![Phil (ZF1PB) and me](/images/phil_zf1pb.jpg)
 
-As soon as I had gotten ashore I quickly met up with Phil ([ZF1PB]), who was to be my most excellent tour guide for the day. Phil and I had been in communication over the past couple months as the cruise got closer and he had even checked in with me while we were in port in Falmouth, Jamaica to confirm that he was available to meet with me when I got to port. 
+As soon as I had gotten ashore I quickly met up with Phil ([ZF1PB]), who was to be my most excellent tour guide for the day. Phil and I had been in communication over the past couple months as the cruise got closer and he had even checked in with me while we were in port in Falmouth, Jamaica to confirm that he was available to meet with me when I got to port.
 
 ![KY-0003: Dart Family Recreation Site](/images/KY-0003_01.jpg)
 
@@ -69,7 +69,7 @@ At the shack I was able to meet Andrew ([ZF1EJ]). The club shack was definitely 
 
 ![KY-0009: Consuelo's Beach National Historic Site](/images/KY-0009_01.jpg)
 
-We didn't get a chance to activate Heroes Square/Centennial Park National Historic Site ([KY-0010]) which I had originally targeted as it was near the port, but Phil said a Thursday was going to have too much foot traffic at this point and parking would be an issue. All in all, it was a great day with more [POTA] activations then I had even planned from the start thanks to Phil's generosity and being my host for the day. 
+We didn't get a chance to activate Heroes Square/Centennial Park National Historic Site ([KY-0010]) which I had originally targeted as it was near the port, but Phil said a Thursday was going to have too much foot traffic at this point and parking would be an issue. All in all, it was a great day with more [POTA] activations then I had even planned from the start thanks to Phil's generosity and being my host for the day.
 
 ![KY-0004: Airport Recreation Park](/images/KY-0004_01.jpg)
 
@@ -79,7 +79,7 @@ Again, I can not say enough about the generosity and welcome I received by Phil,
 
 ![Andrew (ZF1EJ) and me](/images/andrew_zf1ej.jpg)
 
-Phil even informed me that I was free to pass along his contact information to any fellow hams preparing a trip to the islands that would like to have a local contact. The comraderie I felt all day long was absolutely phenomenal and I really wished I had more time to stay on the island. Will definitely have to try and plan another trip back to Cayman Islands so I can spend more time and activate more of the parks available.
+Phil even informed me that I was free to pass along his contact information to any fellow hams preparing a trip to the islands that would like to have a local contact. The comradery I felt all day long was absolutely phenomenal and I really wished I had more time to stay on the island. Will definitely have to try and plan another trip back to Cayman Islands so I can spend more time and activate more of the parks available.
 
 ## MSC Seashore
 
@@ -93,7 +93,7 @@ We explored the ship a bit and were surprised when our baggage was delivered to 
 
 ### Issues encountered
 
-Upon boarding we had asked several crew members questions and got multiple conflicting answers, which shows that all information is not consistently made available to customer-facing crew. I can't really say I'm surprised by this given the abyssmal response I got just simply attempting to confirm I would not have any issues bringing my radio aboard for the cruise. Our accessible ocean view stateroom had several issues, some were easily resolvable and some not. Our room safe was non-operational when we boarded and required having it reset to get it back to operating state. Our wardrobe doors were misaligned and have to be manhandled to open and close them. My mother-in-law's balcony door appears to be warped making it difficult to open and close it smoothly. Aside from the crystal staircase in the midship atrium, the decor is very bland. For this being [MSC]'s newest ship, the issues and lack luster seems like a serious failing. Still, we're at sea on a cruise and I'm going to be operating [POTA], so can't really complain about that and the price for the cruise was right. That is one area [MSC] has made up as their cruise rates are really competitive against the other established cruise lines in the US market.
+Upon boarding we had asked several crew members questions and got multiple conflicting answers, which shows that all information is not consistently made available to customer-facing crew. I can't really say I'm surprised by this given the abysmal response I got just simply attempting to confirm I would not have any issues bringing my radio aboard for the cruise. Our accessible ocean view stateroom had several issues, some were easily resolvable and some not. Our room safe was non-operational when we boarded and required having it reset to get it back to operating state. Our wardrobe doors were misaligned and have to be manhandled to open and close them. My mother-in-law's balcony door appears to be warped making it difficult to open and close it smoothly. Aside from the crystal staircase in the midship atrium, the decor is very bland. For this being [MSC]'s newest ship, the issues and lack luster seems like a serious failing. Still, we're at sea on a cruise and I'm going to be operating [POTA], so can't really complain about that and the price for the cruise was right. That is one area [MSC] has made up as their cruise rates are really competitive against the other established cruise lines in the US market.
 
 ![MSC Seashore - Guest Relations Manager - Sheila ](/images/msc-seashore-sheila.jpg)
 
@@ -109,7 +109,7 @@ While we were in port at Cozumel, Mexico I ran into Handre as we were going asho
 
 Just as pleasant and professional it had been speaking with Handre back on day two of the cruise, speaking with Sheila was no different. We had a good conversation and were able to identify several potential communication breakdowns that had occurred that led to the confusion of the situation. Having this conversation with her greatly improved my opinions on [MSC] and whether we would attempt another voyage aboard one of their ships in the future.
 
-### Take aways
+### Take away
 
 So for those curious about what I took away from this entire experience, here it goes.
 
@@ -121,7 +121,7 @@ Proper procedure would have been port security notified the ship, who would then
 
 ## Final thoughts
 
-Technically my Yaesu FT-70D and Icom ID-52A HTs should have also been confiscated and held in security according to Sheila as they were not FRS radios which the cruise line does not have an issue with as they operate only on fixed frequencies with limited power which won't interfere with ships operations. 
+Technically my Yaesu FT-70D and Icom ID-52A HTs should have also been confiscated and held in security according to Sheila as they were not FRS radios which the cruise line does not have an issue with as they operate only on fixed frequencies with limited power which won't interfere with ships operations.
 
 To me it really doesn't make much sense to be honest. As I mentioned previously from my interaction with Handre and the electronics officer, the ship uses frequencies in the 467 MHz range which is above the 70cm band so not even one that any of my radios could interfere with. I could potentially see GMRS radios being an issue if ship operations used any of the 467 MHz channels, but those are fixed frequencies on any part 95 GMRS radio and not able to be changed other than CTCSS tones. Any FCC compliant part 97 amateur radio should only allow transmission within the 420 and 450 MHz as authorized by the band plan for 70cm.
 
@@ -136,8 +136,6 @@ I'm not sure if this is just lack of knowledge and understanding or what. I know
 [BLF-1220A]: https://www.bioennopower.com/products/12v-20ah-lfp-battery-pvc-blf-1220a "Bioenno Power 12V 20Ah LFP Battery"
 [HAMCATION]: https://www.hamcation.com/ "Orlando HamCation"
 [OARC]: https://oarc.org/ "Orlando Amateur Radio Club"
-[OFREG]: https://www.ofreg.ky/ "Utility Regulation and Competition Office of the Cayman Islands"
-[URCA]: https://www.urcabahamas.bs/ "Utilities Regulation & Competition Authority"
 [CEPT]: https://www.arrl.org/cept "European Conference of Postal and Telecommunications Administrations"
 [K9MKE]: https://www.qrz.com/db/K9MKE "K9MKE: Andrew Craig"
 [ZF1PB]: https://www.qrz.com/db/ZF1PB "ZF1PB: Phil Bodden"
@@ -152,7 +150,5 @@ I'm not sure if this is just lack of knowledge and understanding or what. I know
 [KY-0009]: https://pota.app/#/park/KY-0009 "Consuelo's Beach National Historic Site"
 [KY-0014]: https://pota.app/#/park/KY-0014 "Smith Barcadere Multiple Use Area"
 [BS-0025]: https://pota.app/#/park/BS-0025 "The Retreat Garden National Park"
-[LoTW]: https://lotw.arrl.org/ "The ARRL Logbook of The World"
-[QRZ]: https://logbook.qrz.com/ "QRZ Logbook"
 [W0WD]: https://www.qrz.com/db/W0WD "Joseph K Dolinsky"
 [LISATS]: https://www.lisats.org/ "Launch Information System And Television System"
