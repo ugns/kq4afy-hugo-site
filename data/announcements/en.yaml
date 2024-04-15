@@ -4,21 +4,21 @@
 #   weight: 1
 
 msc-cruise:
-  title: Operation POTA Cruise while sailing on MSC Seashore
-  url: series/cruising
+  title: Operation POTA Cruise aboard MSC Seashore was a success!
+  url: blog/msc-seashore
   weight: 1
 
-license:
-  title: URCA & OfReg issue operating licenses
-  url: gallery/license
-  weight: 2
+# license:
+#   title: URCA & OfReg issue operating licenses
+#   url: gallery/license
+#   weight: 2
 
-bs-np-eclipse:
-  title: POTA activation of BS-0025 during the Solar Eclipse
-  url: blog/cruise-approaches
-  weight: 5
+# bs-np-eclipse:
+#   title: POTA activation of BS-0025 during the Solar Eclipse
+#   url: blog/cruise-approaches
+#   weight: 5
 
-ky-gt-pota:
-  title: Plan to operate POTA from George Town, Cayman Islands
-  url: blog/cruise-approaches
-  weight: 10
+# ky-gt-pota:
+#   title: Plan to operate POTA from George Town, Cayman Islands
+#   url: blog/cruise-approaches
+#   weight: 10
