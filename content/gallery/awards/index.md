@@ -116,7 +116,7 @@ resources:
     params:
       source: POTA
       caption: Support Your Parks Hunter - Spring 2024
-      date: 2023-04-21
+      date: 2024-04-21
 
   - src: KQ4AFY_POTA_Rover_Warthog_20240421.png
     params:
