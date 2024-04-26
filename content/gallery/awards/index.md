@@ -58,6 +58,11 @@ resources:
       source: POTA
       caption: Park to Park - 25 QSOs
       date: 2023-10-30
+  - src: KQ4AFY_POTA_Park_to_Park_25.png
+    params:
+      source: POTA
+      caption: Park to Park - 25 QSOs
+      date: 2024-04-11
 
   - src: KQ4AFY_POTA_Bronze_Activator.png
     params:
@@ -86,6 +91,11 @@ resources:
       source: POTA
       caption: Support Your Parks Activator - Winter 2024
       date: 2024-01-20
+  - src: KQ4AFY_POTA_Support_Your_Parks_Activator_Spring2024.png
+    params:
+      source: POTA
+      caption: Support Your Parks Activator - Spring 2024
+      date: 2024-04-21
 
   - src: KQ4AFY_POTA_Support_Your_Parks_Hunter_Spring2023.png
     params:
@@ -102,6 +112,17 @@ resources:
       source: POTA
       caption: Support Your Parks Hunter - Winter 2024
       date: 2024-01-20
+  - src: KQ4AFY_POTA_Support_Your_Parks_Hunter_Spring2024.png
+    params:
+      source: POTA
+      caption: Support Your Parks Hunter - Spring 2024
+      date: 2023-04-21
+
+  - src: KQ4AFY_POTA_Rover_Warthog_20240421.png
+    params:
+      source: POTA
+      caption: Activating 5 references in a single day
+      date: 2024-04-21
 
   - src: KQ4AFY_WPX_DIGITAL_PDF_CERTIFICATE.png
     params:
