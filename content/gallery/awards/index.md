@@ -58,10 +58,10 @@ resources:
       source: POTA
       caption: Park to Park - 25 QSOs
       date: 2023-10-30
-  - src: KQ4AFY_POTA_Park_to_Park_25.png
+  - src: KQ4AFY_POTA_Park_to_Park_50.png
     params:
       source: POTA
-      caption: Park to Park - 25 QSOs
+      caption: Park to Park - 50 QSOs
       date: 2024-04-11
 
   - src: KQ4AFY_POTA_Bronze_Activator.png
