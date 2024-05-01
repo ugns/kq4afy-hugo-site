@@ -216,4 +216,9 @@ resources:
       source: KE2BWZ
       caption: QSL with KE2BWZ
       date: 2024-01-13T23:31:00-00:00
+  - src: KQ4AFY_C6A_F4TNK_20240408_1700_10m_FT8.jpg
+    params:
+      source: F4TNK
+      caption: POTA BS-0025 QSL with F4TNK
+      date: 2024-04-08T17:00:00-00:00
 ---
