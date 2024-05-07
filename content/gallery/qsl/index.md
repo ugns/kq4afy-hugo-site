@@ -221,4 +221,19 @@ resources:
       source: F4TNK
       caption: POTA BS-0025 QSL with F4TNK
       date: 2024-04-08T17:00:00-00:00
+  - src: KQ4AFY_8P6PE_20240120_1327_20m_FT8.jpg
+    params:
+      source: 8P6PE
+      caption: QSL with 8P6PE
+      date: 2024-01-20T13:27:00-00:00
+  - src: KQ4AFY_WA0RUF_20240421_1819_15m_FT8.jpg
+    params:
+      source: WA0RUF
+      caption: QSL with WA0RUF
+      date: 2024-04-21T18:19:00-00:00
+  - src: KQ4AFY_NC0N_20240101_1917_15m_FT8.jpg
+    params:
+      source: NC0N
+      caption: QSL with NC0N
+      date: 2024-01-01T19:17:00-00:00
 ---
