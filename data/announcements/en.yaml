@@ -3,9 +3,14 @@
 #   url: blog/hamcation-2024
 #   weight: 1
 
-msc-cruise:
-  title: Operation POTA Cruise aboard MSC Seashore was a success!
-  url: blog/msc-seashore
+# msc-cruise:
+#   title: Operation POTA Cruise aboard MSC Seashore was a success!
+#   url: blog/msc-seashore
+#   weight: 1
+
+hamvention:
+  title: I will be attending Dayton Hamvention 2024 - May 17-19th
+  url: blog/hamvention-2024
   weight: 1
 
 # license:
