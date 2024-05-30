@@ -8,10 +8,10 @@
 #   url: blog/msc-seashore
 #   weight: 1
 
-hamvention:
-  title: I will be attending Dayton Hamvention 2024 - May 17-19th
-  url: blog/hamvention-2024
-  weight: 1
+# hamvention:
+#   title: I will be attending Dayton Hamvention 2024 - May 17-19th
+#   url: blog/hamvention-2024
+#   weight: 1
 
 # license:
 #   title: URCA & OfReg issue operating licenses
