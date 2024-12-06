@@ -36,6 +36,16 @@ resources:
       source: FEMA
       caption: IS-288.A - Role of Voluntary Organizations in EM
       date: 2024-02-19
+  - src: G-300_certificate.png
+    params:
+      source: Osceola County Office of Emergency Management
+      caption: G-300 - Intermediate Incident Command System for Expanding Incidents
+      date: 2024-05-31
+  - src: G-400_certificate.png
+    params:
+      source: Osceola County Office of Emergency Management
+      caption: G-400 - Advanced Incident Command System for Complex Incidents
+      date: 2024-12-05
 
   - src: RoleSkywarnSpotter.png
     params:
