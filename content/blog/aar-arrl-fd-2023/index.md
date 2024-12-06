@@ -42,7 +42,7 @@ the [Solivita Radio Cloud][SRC]. I also had the option to work it with the
 [Lake Monroe Amateur Radio Society][LMARS], but thought working with the smaller 
 club I would get more radio time.
 
-As I had [previously]({{< ref "/arrl-field-day-2023" >}}) talked about our Field Day
+As I had [previously]({{< ref "/blog/arrl-field-day-2023" >}}) talked about our Field Day
 preparations, we had a new logging solution that had been untested in the field that
 we were very hopeful for and were very pleased with the results. During our monthly
 meeting last night it was commented, going forward that is the way to go. We did have
