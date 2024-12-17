@@ -1,7 +1,7 @@
-# hamcation:
-#   title: Hope to see you @ Orlando HamCation - Feb 7-9, 2025
-#   url: blog/hamcation-2025
-#   weight: 1
+hamcation:
+  title: Hope to see you @ Orlando HamCation - Feb 7-9, 2025
+  # url: blog/hamcation-2025
+  weight: 1
 
 # msc-cruise:
 #   title: Operation POTA Cruise aboard MSC Seashore was a success!
