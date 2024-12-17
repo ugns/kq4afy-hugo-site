@@ -32,7 +32,6 @@ as an ad-hoc WiFi AP and a transceiver connected via a TNC.
 
 <!--more-->
 
-
 # Observation
 
 # Scope

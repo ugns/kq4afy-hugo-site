@@ -40,7 +40,7 @@ abiding by the rules of the community.
 
 <!--more-->
 
-# The situation
+## The situation
 
 So I live in a community governed by an HOA, which means I have certain
 rules I have to abide by and one of those important ones relates to antennas. More importantly that the HOA does not allow them, so that means
@@ -56,7 +56,7 @@ the move, but I had a 4GB [4B] that wasn't being used that I could start off
 working with. I realized the 4B was very much overkill and it had a
 tendency to run really hot which made the 3B a much better option.
 
-# Collecting the parts
+## Collecting the parts
 
 Thankfully I already had the Raspberry Pi boards which I'd purchased well
 before COVID-19 and chip shortages caused their prices to skyrocket. I
@@ -87,7 +87,7 @@ C4Labs cases. Both boards supported P25, DMR, YSF, NXDN, DMR and D-Star
 digital voice modes and while both had an option to come with the OLED
 display I opted to go without it.
 
-# Some assembly required
+## Some assembly required
 
 Assembling the C4Labs cases was pretty easy and self-explanatory. Both
 came with easy to follow directions. The [Zero W] [simplex] build was
@@ -116,7 +116,7 @@ file to try them out until I found the one I am working with currently.
 It did require installing the ON7LDS [NextionDriver] and setting the Nextion Layout to `ON7LDS L3` to run properly. Eventually I may try my
 hand at developing my own but for now the one I have is functional.
 
-# Finishing touches
+## Finishing touches
 
 With the case assembled the only thing left to do is get the [Pi-Star]
 image loaded on to a microSD card, insert it into the Raspberry Pi and

@@ -31,7 +31,6 @@ This year I enjoyed working through radio making contacts to start
 the new year. I had great results making contacts from the backyard
 with my [FT-991A].
 
-
 <!--more-->
 
 As I only got my license in 2022 after passing my General exam on May
@@ -40,7 +39,7 @@ to start the New Year off on the air. I did this in between being out
 driving for Lyft over the New Years Weekend.
 
 I worked this also towards my [QRZ] 12 Days of QRZ 2023 award as well
-which included my days working over Christmas weekend and accounted for 
+which included my days working over Christmas weekend and accounted for
 over half of the days needed. I setup my [FT-991A] out on the lanai with
 my custom [PREDator][PREDATOR] vertical antenna I had assembled. This
 was the first real time working it after aquiring all the parts I needed

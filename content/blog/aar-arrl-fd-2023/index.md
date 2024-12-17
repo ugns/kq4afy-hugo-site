@@ -39,7 +39,7 @@ time during the ARRL Field Day June 24th and 25th.
 This was my first [ARRL] Field Day and I greatly enjoyed working with the guys from
 the [Solivita Radio Cloud][SRC]. I also had the option to work it with the
 [Orlando Amateur Radio Club][OARC] who was teaming up again this year with the
-[Lake Monroe Amateur Radio Society][LMARS], but thought working with the smaller 
+[Lake Monroe Amateur Radio Society][LMARS], but thought working with the smaller
 club I would get more radio time.
 
 As I had [previously]({{< ref "/blog/arrl-field-day-2023" >}}) talked about our Field Day
@@ -59,7 +59,7 @@ being passed through it causing issues, though that didn't appear to be an issue
 
 We worked 10, 15, 20, 40 and 80m bands on all modes as a 3A class designation. Our
 choice of class has been another topic we've discussed after and going forward we will
-probably be running more stations. We had the stations available and at times had 
+probably be running more stations. We had the stations available and at times had
 operators standing by waiting for someone to take a break so we will probably run 4A
 or even 5A going forward. We look at prioritizing having fun and less concerned on how
 well we scored against other clubs as long as we do better than we did previously.
@@ -80,7 +80,7 @@ Overall, we had 688 contacts made over all three modes and five bands.
 
 We had nine operators, including myself, and everyone got time to make contacts. We
 were able to operator on full bands for most of the 20 hours we were active as we had
-two Amateur Extras, six General and one Technician operators. The two extra 
+two Amateur Extras, six General and one Technician operators. The two extra
 licensed operators only left for a period during the overnight hours as we worked
 through the night.
 

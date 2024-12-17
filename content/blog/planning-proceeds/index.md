@@ -86,7 +86,7 @@ with only Technician class as [CEPT] only covers General and above. The [MSC] Se
 most [MSC] cruise ships, is flagged under Malta which is a country that has implemented [CEPT]
 license but not the [CEPT] Novice class. So now I'm technically able to operate from the ship while
 in international waters provided I had permission from the Ship's Master. That is however not part
-of my plan so I'm not even trying to pursue that avenue. 
+of my plan so I'm not even trying to pursue that avenue.
 
 The plan is to take my radio equipment with me and go perform [POTA] activations while ashore in port
 on the islands I've gotten permission to operate. If successfully I'll be able to add three more [POTA] DXCC entities and at least three more new parks themselves. I have found parks that are not

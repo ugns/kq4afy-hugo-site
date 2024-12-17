@@ -33,7 +33,7 @@ an update!
 
 <!--more-->
 
-# Catching up
+## Catching up
 
 So since the issue started happening back in October 2022 after my vehicle
 was in the shop for warranty work on the sunroof track, I'd been having
@@ -49,11 +49,11 @@ having an issue.
 
 The TPMS and blindspot surround view camera issue only started after the
 vehicle was in the shop, and despite the service center techs original
-finding that it was my [Yaesu FTM-400XDR][FTM-400XDR] radio and 
+finding that it was my [Yaesu FTM-400XDR][FTM-400XDR] radio and
 [Comet CA-2x4SRNMO][CA-2x4SRNMO] antenna causing the issue, I found the
 timing a little too coincidental.
 
-# What we know
+## What we know
 
 I recently picked my vehicle back up from the service center after they
 had it for the weekend to look into my complaints. I have since convinced
@@ -73,12 +73,12 @@ and after they checked their corporate tech-line, found that this
 interference is a known issue with a fix involving the application of
 faraday tape.
 
-# Where are we now
+## Where are we now
 
 The ICM system update was performed and Android Auto has been performing
 better since I got the vehicle back. I've still had it flip out a few
 times while driving, but it is far less frequent than it was previously
-occuring. My vehicle is not equipped with the wireless Android Auto so 
+occuring. My vehicle is not equipped with the wireless Android Auto so
 I do have to use the USB cable and constantly inserting and removing it
 can cause issues so perhaps I'll look into investing in the [Motorola MA1
 adapter] that has recently come out.
@@ -94,18 +94,17 @@ finish the job, and hopefully it will have the systems all working
 properly.
 
 I've also asked the service advisor to also look into what frequency the
-TPMS sensors are actually operating on as I found in my research that 
+TPMS sensors are actually operating on as I found in my research that
 they can operate on both 315 MHz and 433 MHz. Typically they use the 315
 MHz frequency outside of Europe, but with the vehicle being Korean built
-I found information stating it could be using 433 MHz which would be 
+I found information stating it could be using 433 MHz which would be
 inside the 70cm band plan here in the United States. The way TPMS works is
 that when the vehicle is turned on it sends a low frequency ping on 125 KHz to wake the sensors up. The sensors then transmit their information
 back to the receiver on the RF frequency, either 315 or 433 MHz. Some
 sensors are configurable to use either, while others are one or the other
 frequency. Give 433 MHz is inside the UHF band plan and with the number
-of UHF repeaters in the area, that could definitely lead to issues and 
+of UHF repeaters in the area, that could definitely lead to issues and
 not just from my radio.
-
 
 [FTM-400XDR]: https://www.hamradio.com/detail.cfm?pid=H0-014544 "Yaesu FTM-400XDR Dual Band transceiver"
 [CA-2x4SRNMO]: https://www.hamradio.com/detail.cfm?pid=H0-011146 "Comet CA-2x4SRNMO mobile antenna"

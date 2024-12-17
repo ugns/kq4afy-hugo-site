@@ -33,7 +33,7 @@ authors:
   - jbouse
 ---
 
-As we enter the month of June, preparations are underway for ARRL 
+As we enter the month of June, preparations are underway for ARRL
 Field Day later this month June 24th and 25th.
 
 <!--more-->
@@ -78,7 +78,7 @@ their client hostnames.
 
 With the networking control taken care of I next turned to the N3FJP logging. For this
 we needed Windows and while there are Windows IoT images available for the Raspberry Pi
-this was not going to work for the logging software. After a bit of researching I did 
+this was not going to work for the logging software. After a bit of researching I did
 find how to installed Windows 11 Pro on the Pi. This took a few iterations to get right
 and I quickly found that a microSD card was not enough space to properly setup on.
 Lucky for me I had the 8GB Raspberry Pi 4B and a [case][Argon] that held a 512GB M.2 SSD drive
@@ -89,16 +89,16 @@ find it ran in emulation mode just fine. I did have to go through this process a
 times to get things working good. Initially the Pi would only see 4GB of the RAM so I
 had to go into the setup and disable the 4GB limit, with the full 8GB available it then
 started to perform better. I also did not use the Windows Account, which required doing
-the initial out of box (OOB) setup offline so I could setup a Local Account. This was 
+the initial out of box (OOB) setup offline so I could setup a Local Account. This was
 needed so I could easily remote connect into the Pi from a laptop to manage it. Again
-going with simplicity I just named this host as `RPI4-LOGGER` and this would then 
+going with simplicity I just named this host as `RPI4-LOGGER` and this would then
 become the server in the logging software network config screen.
 
 Installation of the N3FJP was pretty simple and followed the readily available online
 documentation. Once registered, I went to the `Network` menu and changed the `Network
 Method` to be `TCP` instead of `File Share`. I also needed to make sure the checkbox
 was selected for `Enable Status / Chat Functions`. I left the port as the default of
-`1000` which works fine. For both the station and server name both were then set to 
+`1000` which works fine. For both the station and server name both were then set to
 `RPI4-LOGGER`. On the station operator laptops the station name would then be their
 client hostname and the server name would be set to `RPI4-LOGGER`. THe other settings
 are the same for clients and server.
@@ -112,11 +112,11 @@ show on the display as being used.
 After presenting this to the club, there were operators asking about running this on a
 Linux laptop under Wine. I went back and did some testing and was able to get the software
 running under Wine 8.8+ from the WineHQ Staging release. The WineHQ Stable releast of 8.0
-I ran into problems with and was unable to get it working properly. I did note that while 
-I could potentially just run the server under Wine, the port could not use `1000` unless 
+I ran into problems with and was unable to get it working properly. I did note that while
+I could potentially just run the server under Wine, the port could not use `1000` unless
 I ran the software as `root` given the port was less than 1024. This is a Linux limitation
 that Windows does not share in that it will only allow the administrator account to bind
-to a port under 1024. This does not stop Linux from using port 1000 to connect to the 
+to a port under 1024. This does not stop Linux from using port 1000 to connect to the
 server as a client.
 
 Now ultimately I am looking to have a 12V to USB-C power adapter in my Go Box design that would
@@ -128,7 +128,7 @@ for all three devices into and will be able to use either tha main utility power
 location we'll be operating or the generator we will be powering our radios. I'll also report
 back how everything turned out during the event as well as any issues we encountered. We're looking
 to limit the issues by doing the full dress test a couple days prior to make sure all operator
-stations are updated to the latest version of the logging software and able to connect to the 
+stations are updated to the latest version of the logging software and able to connect to the
 logging server.
 
 [SRC]: https://solivitaradioclub.weebly.com/ "Solivita Radio Club"
