@@ -1,1 +1,1 @@
-domain_name = "kq4afy.xyz"
+domain_name = "kq4afy.radio"
