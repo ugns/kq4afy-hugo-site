@@ -72,6 +72,7 @@ jobs:
       with:
         token: ${{ steps.generate_token.outputs.token }}
         planfile: .planfile
+        working-directory: terraform/
 
     - name: Terraform Plan Status
       if: steps.plan.outcome == 'failure'
