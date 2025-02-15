@@ -4,7 +4,7 @@ variable "domain_name" {
 }
 
 variable "aliases" {
-  type        = map(string)
+  type        = list(string)
   description = "Additional aliases for Cloudfront"
   default     = []
 }
