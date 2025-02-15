@@ -65,7 +65,7 @@ jobs:
     
     - name: Terraform Plan
       id: plan
-      run: terraform plan .planfile
+      run: terraform plan -out .planfile
 
     - name: Post PR comment
       uses: borchero/terraform-plan-comment@v2
@@ -79,7 +79,7 @@ jobs:
 
     - name: Terraform Apply
       if: github.ref == 'refs/heads/main' && github.event_name == 'push'
-      run: terraform apply -no-color -auto-approve
+      run: terraform apply -no-color -auto-approve .planfile
 
     - name: Output Terraform values
       id: terraform
