@@ -1,10 +1,8 @@
 {{- $media := dict
-  "afdian" (dict "url" "https://afdian.com/a/%s" "iconVendor" "hb-socials" "icon" "afdian" "color" "#946CE6")
   "artstation" (dict "url" "https://www.artstation.com/%s" "color" "#0a5878")
   "bilibili" (dict "url" "https://space.bilibili.com/%s" "color" "#fb7299")
   "bitbucket" (dict "url" "https://bitbucket.org/%s" "color" "#0e65df")
-  "bluesky" (dict "url" "https://bsky.app/profile/%s" "icon" "bluesky")
-  "buymeacoffee" (dict "url" "https://buymeacoffee.com/%s")
+  "bluesky" (dict "url" "https://bsky.app/profile/%s")
   "codeberg" (dict "url" "https://codeberg.org/%s" "color" "#2185d0")
   "discord" (dict "url" "https://discord.com/invite/%s")
   "dockerhub" (dict "url" "https://hub.docker.com/u/%s" "icon" "docker")
@@ -12,9 +10,7 @@
   "facebook" (dict "url" "https://facebook.com/%s" "color" "#1877f2")
   "facebookgroup" (dict "url" "https://facebook.com/groups/%s" "color" "#1877f2" "icon" "facebook")
   "github" (dict "url" "https://github.com/%s")
-  "githubsponsors" (dict "url" "https://github.com/%s" "icon" "githubsponsors" "color" "#EA4AAA")
   "gitlab" (dict "url" "https://gitlab.com/%s" "color" "#e24329")
-  "gmail" (dict "url" "mailto:%s" "color" "#EA4335")
   "instagram" (dict "url" "https://www.instagram.com/%s" "color" "#c03957")
   "itchdotio" (dict "url" "https://%s.itch.io/")
   "kaggle" (dict "url" "https://kaggle.com/%s" "color" "#3cc6ff")
@@ -39,9 +35,7 @@
   "threads" (dict "url" "https://www.threads.net/@%s")
   "tiktok" (dict "url" "https://www.tiktok.com/@%s")
   "tumblr" (dict "url" "https://%s.tumblr.com")
-  "twitter" (dict "url" "https://twitter.com/%s" "icon" "x")
-  "website" (dict "url" "%s" "icon" "globe" "iconVendor" "bootstrap")
-  "x" (dict "url" "https://x.com/%s")
+  "twitter" (dict "url" "https://twitter.com/%s" "color" "#1d9bf0")
   "xing" (dict "url" "https://www.xing.com/profile/%s")
   "youtube" (dict "url" "https://www.youtube.com/channel/%s" "color" "#ff0000")
   "zhihu" (dict "url" "https://www.zhihu.com/people/%s" "color" "#056de8")
@@ -64,7 +58,7 @@
       {{- $url = printf .url $.id }}
     {{- else if eq $.name "rss" }}
       {{- with site.Home.OutputFormats.Get "rss" }}
-        {{- $url = .Permalink }}
+        {{- $url = .RelPermalink }}
       {{- end }}
     {{- end }}
   {{- end }}
@@ -75,17 +69,11 @@
     {{- $icon = . }}
   {{- end }}
 {{- end }}
-{{- if or (hasPrefix $url "mailto:") (hasPrefix $url "tel:") }}
-  {{- $url = partial "ascii/str2html" $url }}
-{{- else }}
-  {{- $url = $url | safeURL }}
-{{- end }}
 <a
   class="hb-social {{ .class }}"
-  {{ printf `href="%s"` $url | safeHTMLAttr }}
+  href="{{ $url | safeURL }}"
   target="_blank"
   rel="nofollow me"
-  {{ if eq .name "rss" }}data-rss-feed{{ end }}
   title="{{ $title }}">
   {{- partial "icons/icon" (dict
     "vendor" $iconVendor
