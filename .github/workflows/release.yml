@@ -68,6 +68,7 @@ jobs:
       run: terraform plan -out .planfile
 
     - name: Post PR comment
+      if: github.event_name == 'pull_request'
       uses: borchero/terraform-plan-comment@v2
       with:
         token: ${{ steps.generate_token.outputs.token }}
