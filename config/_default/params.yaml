@@ -12,9 +12,7 @@ hb:
           paypal: KQ4AFY
           telegram: KQ4AFY
           discord: rfT2kzvjfq
-          tiktok: butonlyone.life
           email: operator@kq4afy.xyz
-    #       mastodon: https://techhub.social/@hbstack
           rss: true
       posts:
         recent_count: 5 # the number of recent posts.
