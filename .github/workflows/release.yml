@@ -157,9 +157,10 @@ jobs:
       uses: reggionick/s3-deploy@v4
       with:
         folder: public
+        dist-id: ${{ needs.deploy-infra.outputs.distribution }}
         bucket: ${{ needs.deploy-infra.outputs.bucket }}
         bucket-region: us-east-1
         delete-removed: true
         cache: 3600
         private: true
-        dist-id: ${{ needs.deploy-infra.outputs.distribution }}
+        files-to-include: '{.*/**,**}'
