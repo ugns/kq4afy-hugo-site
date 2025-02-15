@@ -15,10 +15,7 @@
     "url": "https://github.com/ugns/kq4afy-hugo-site/issues"
   },
   "homepage": "https://github.com/ugns/kq4afy-hugo-site#readme",
-  "devDependencies": {
-    "@fullhuman/postcss-purgecss": "^6.0.0",
-    "autoprefixer": "^10.4.14",
-    "postcss-cli": "^11.0.0",
-    "rtlcss": "^4.0.0"
+  "dependencies": {
+    "@hbstack/node-packages": "^0.1.5"
   }
 }
