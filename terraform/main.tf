@@ -6,7 +6,8 @@ module "cdn" {
   stage                       = "use1"
   name                        = "cdn"
   origin_bucket               = data.aws_s3_bucket.this.bucket
-  aliases                     = flatten([[data.aws_route53_zone.this.name], var.aliases])
+  aliases                     = [data.aws_route53_zone.this.name]
+  external_aliases            = var.aliases
   dns_alias_enabled           = true
   website_enabled             = true
   s3_website_password_enabled = true
