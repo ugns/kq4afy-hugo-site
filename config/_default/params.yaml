@@ -33,6 +33,7 @@ hb:
     social_share_buttons:
       alignment: center
       media: 
+      - bluesky
       - facebook
       - twitter
       - linkedin

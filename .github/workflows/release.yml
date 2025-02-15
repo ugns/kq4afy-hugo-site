@@ -111,6 +111,8 @@ jobs:
 
     - run: npm ci
 
+    - run: npm i -g sass
+
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v3
       with:
