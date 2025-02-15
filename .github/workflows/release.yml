@@ -142,15 +142,23 @@ jobs:
         role-chaining: true
         aws-region: us-east-1
 
-    - name: Update Hugo Deployment
-      run: |
-        sed -i "s@CLOUDFRONT_DISTRIBUTION_ID@${{ needs.deploy-infra.outputs.distribution }}@g" config/production/deployment.yaml
-        sed -i "s@S3_BUCKET_URL@${{ needs.deploy-infra.outputs.bucket }}@g" config/production/deployment.yaml
+    # - name: Update Hugo Deployment
+    #   run: |
+    #     sed -i "s@CLOUDFRONT_DISTRIBUTION_ID@${{ needs.deploy-infra.outputs.distribution }}@g" config/production/deployment.yaml
+    #     sed -i "s@S3_BUCKET_URL@${{ needs.deploy-infra.outputs.bucket }}@g" config/production/deployment.yaml
 
-    - name: Hugo Deploy (dry-run)
-      if: github.event_name == 'pull_request'
-      run: hugo deploy --dryRun --target AWS
+    # - name: Hugo Deploy (dry-run)
+    #   if: github.event_name == 'pull_request'
+    #   run: hugo deploy --dryRun --target AWS
 
     - name: Hugo Deploy
       if: github.ref == 'refs/heads/main' && github.event_name == 'push'
-      run: hugo deploy --maxDeletes -1 --target AWS --logLevel info
+      # run: hugo deploy --maxDeletes -1 --target AWS --logLevel info
+      uses: reggionick/s3-deploy@v4
+      with:
+        folder: public
+        bucket: ${{ needs.deploy-infra.outputs.bucket }}
+        bucket-region: us-east-1
+        delete-removed: true
+        cache: 3600
+        dist-id: ${{ needs.deploy-infra.outputs.distribution }}
