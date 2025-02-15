@@ -108,7 +108,7 @@ jobs:
     - name: Setup node
       uses: actions/setup-node@v4
       with:
-        node-version: 20
+        node-version: 'lts/*'
 
     - name: Setup Dart Sass
       run: sudo snap install dart-sass && sudo snap alias dart-sass sass
