@@ -111,13 +111,12 @@ jobs:
         node-version: 'lts/*'
 
     - run: npm ci
-
     - run: npm i -g sass
 
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v3
       with:
-        hugo-version: '0.128.0'
+        hugo-version: '0.136.5'
         extended: true
 
     - uses: actions/cache@v4
@@ -128,7 +127,7 @@ jobs:
           ${{ runner.os }}-hugomod-
       
     - name: Hugo Build
-      run: hugo --gc --enableGitInfo --minify --baseURL https://${{ needs.deploy-infra.outputs.baseurl }}/
+      run: hugo build --gc --cleanDestinationDir --enableGitInfo --minify --baseURL https://${{ needs.deploy-infra.outputs.baseurl }}/
 
     - name: Configure AWS credentials
       uses: aws-actions/configure-aws-credentials@v4
