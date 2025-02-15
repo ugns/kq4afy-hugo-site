@@ -161,4 +161,5 @@ jobs:
         bucket-region: us-east-1
         delete-removed: true
         cache: 3600
+        private: true
         dist-id: ${{ needs.deploy-infra.outputs.distribution }}
