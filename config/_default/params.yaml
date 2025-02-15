@@ -8,13 +8,9 @@ hb:
         location: St. Cloud, FL
         hotline: 6101659
         socials: &my_socials
-          github: jbouse
           paypal: KQ4AFY
           telegram: KQ4AFY
-          discord: rfT2kzvjfq
-          tiktok: butonlyone.life
-          email: operator@kq4afy.xyz
-    #       mastodon: https://techhub.social/@hbstack
+          bluesky: kq4afy.radio
           rss: true
       posts:
         recent_count: 5 # the number of recent posts.
@@ -34,6 +30,7 @@ hb:
     social_share_buttons:
       alignment: center
       media: 
+      - bluesky
       - facebook
       - twitter
       - linkedin
@@ -63,3 +60,55 @@ hb:
       <<: *my_socials
   revision:
     date_format: :date_medium
+
+seo:
+  favicons: # see https://hugomods.com/en/docs/seo/#favicons-module
+    icon: images/logo.png # use logo as favicon.
+    sizes:
+    - size: 16x16
+    - size: 32x32
+    - size: 150x150
+    - rel: apple-touch-icon
+      size: 180x180
+    - size: 192x192
+
+# PWA settings, see https://hugomods.com/en/docs/pwa/#site-parameters.
+pwa:
+  debug: false
+  manifest:
+    background_color: '#712cf9'
+    theme_color: '#712cf9'
+    short_name: 'HB Theme'
+
+# see https://hugomods.com/en/docs/search/#site-parameters
+search:
+  stall_threshold: 300
+  min_match_char_length: 2
+  case_sensitive: false
+  shortcut_search: ["/"]
+
+gravatar:
+  default: wavatar
+  rating: pg
+
+mermaid:
+  # replace it with other CDNs or self-hosted URLs.
+  js_url: https://cdn.jsdelivr.net/npm/mermaid@latest/dist/mermaid.esm.min.mjs
+
+hugopress:
+  modules:
+    hb-custom:
+      hooks:
+        # see layouts/partials/hugopress/modules/hb-custom/hooks/hb-blog-sidebar.html.
+        hb-blog-sidebar:
+          cacheable: true
+          weight: 1
+    # change the order of sidebar modules.
+    hb-blog-sidebar-taxonomies:
+      hooks:
+        hb-blog-sidebar:
+          weight: 3
+    hb-blog-sidebar-posts:
+      hooks:
+        hb-blog-sidebar:
+          weight: 2

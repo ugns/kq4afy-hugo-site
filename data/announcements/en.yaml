@@ -1,11 +1,6 @@
-hamcation:
-  title: Hope to see you @ Orlando HamCation - Feb 7-9, 2025
-  # url: blog/hamcation-2025
-  weight: 1
-
-# msc-cruise:
-#   title: Operation POTA Cruise aboard MSC Seashore was a success!
-#   url: blog/msc-seashore
+# hamcation:
+#   title: Hope to see you @ Orlando HamCation - Feb 13-15, 2026
+#   # url: blog/hamcation-2025
 #   weight: 1
 
 # hamvention:
@@ -17,13 +12,3 @@ hamcation:
 #   title: URCA & OfReg issue operating licenses
 #   url: gallery/license
 #   weight: 2
-
-# bs-np-eclipse:
-#   title: POTA activation of BS-0025 during the Solar Eclipse
-#   url: blog/cruise-approaches
-#   weight: 5
-
-# ky-gt-pota:
-#   title: Plan to operate POTA from George Town, Cayman Islands
-#   url: blog/cruise-approaches
-#   weight: 10
