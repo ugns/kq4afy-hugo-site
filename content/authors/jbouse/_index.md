@@ -5,5 +5,6 @@ socials:
   github: jbouse
   paypal: KQ4AFY
   telegram: KQ4AFY
-  email: operator@kq4afy.xyz 
+  email: operator@kq4afy.xyz
+  bluesky: kq4afy.radio
 ---

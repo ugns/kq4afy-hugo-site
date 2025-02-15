@@ -13,6 +13,7 @@ hb:
           telegram: KQ4AFY
           discord: rfT2kzvjfq
           email: operator@kq4afy.xyz
+          bluesky: kq4afy.radio
           rss: true
       posts:
         recent_count: 5 # the number of recent posts.
