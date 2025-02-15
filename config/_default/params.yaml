@@ -8,11 +8,8 @@ hb:
         location: St. Cloud, FL
         hotline: 6101659
         socials: &my_socials
-          github: jbouse
           paypal: KQ4AFY
           telegram: KQ4AFY
-          discord: rfT2kzvjfq
-          email: operator@kq4afy.xyz
           bluesky: kq4afy.radio
           rss: true
       posts:
