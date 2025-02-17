@@ -128,6 +128,8 @@ github.com/hbstack/snackbar v0.1.2 h1:/9R2CdWnLcOBobxzdpe30cgM1gcKJAXtbVbZtp2pgm
 github.com/hbstack/snackbar v0.1.2/go.mod h1:4uZSGpI9ZtR9by0bA8yJW2y61sRks2W4a8VvyMluXuo=
 github.com/hbstack/social-share-buttons v0.5.0 h1:hkzsYfcvcDN+mE7hpSS5pQ0CoKSMA8yC8YBwlQOwRKE=
 github.com/hbstack/social-share-buttons v0.5.0/go.mod h1:WAXsqPI+12QA67fA/IWLvxVubuvbW8kzLwTo0pZW41E=
+github.com/hbstack/social-share-buttons v0.6.0 h1:UjbFkku9B67gS3+7aO70QZBl4YPq1pNa9dazrAtmf4A=
+github.com/hbstack/social-share-buttons v0.6.0/go.mod h1:WAXsqPI+12QA67fA/IWLvxVubuvbW8kzLwTo0pZW41E=
 github.com/hbstack/socials v0.18.0 h1:ESA5/lPEoFpzprJ6x++FrwX8ajo68rWpSdYJrPE9yLY=
 github.com/hbstack/socials v0.18.0/go.mod h1:iZvyHnOhH2ZYGvUnO6QomRiCwirCB9CtxUbsHsJloL8=
 github.com/hbstack/syntax-highlighting v0.2.1 h1:JMAfLzebsQy983WS560yPo4vnF6rBCo6OBx9jpNbAQ8=
@@ -186,6 +188,8 @@ github.com/hugomods/pwa v0.9.0 h1:bEKFkP7xkow6IadY9hKEwPbdKeLC0XZfVT31gGP7CPc=
 github.com/hugomods/pwa v0.9.0/go.mod h1:KpYK2Ffn969+Py5SzV3+iXYase4UoUeRAsd9jY7Q2Us=
 github.com/hugomods/search v0.19.1 h1:OUuw4cWwHfi4lOTX1VYL7J5lyDk6b+TAn/8Tk5+GdtE=
 github.com/hugomods/search v0.19.1/go.mod h1:xPnDGjP/HCdEWJrJBwwdI2mEtdxFxp+wHBwSl/r2m00=
+github.com/hugomods/search v0.19.2 h1:ZTiff1TB6g7bHoXurVXx+qyp4Il73ruBo3FMkMN36lc=
+github.com/hugomods/search v0.19.2/go.mod h1:xPnDGjP/HCdEWJrJBwwdI2mEtdxFxp+wHBwSl/r2m00=
 github.com/hugomods/search-index v0.1.2 h1:ZYMT7YMhWxH5/vomtxZtJUgdu9/QAQbNnKRLi2CCXvA=
 github.com/hugomods/search-index v0.1.2/go.mod h1:2owtATJ1XxWAvK/trnNoUC1EoBimAtRYVa7F+JO/s9c=
 github.com/hugomods/seo/modules/alternatives v0.1.1 h1:Y8NdyBhvkSfr43ZKtXvQBgOW9lHL0a6vC1UIZFNbMpo=
