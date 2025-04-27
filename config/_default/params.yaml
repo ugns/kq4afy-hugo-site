@@ -43,6 +43,7 @@ hb:
     socials:
       <<: *my_socials
       _color: false
+    powered_by: false
   gallery:
     date_sort_order: asc
     highlight_images_count: 10

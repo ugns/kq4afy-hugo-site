@@ -1,6 +1,6 @@
-baseURL: https://KQ4AFY.xyz/
+baseURL: https://KQ4AFY.radio/
 title: CQ KQ4AFY EL98
-copyright: "Copyright © 2022-{year} Jeremy T. Bouse. All Rights Reserved."
+copyright: "Copyright © 2022-{year} Jeremy (KQ4AFY) Bouse. All Rights Reserved."
 defaultContentLanguage: en
 defaultContentLanguageInSubdir: false # disable this to remove the default language code from URL, i.e. /en/docs -> /docs.
 enableRobotsTXT: true
