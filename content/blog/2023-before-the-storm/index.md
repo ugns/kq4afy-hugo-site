@@ -8,7 +8,7 @@ featured: false
 pinned: true
 # comments: false
 series:
-#  - 
+  - ARES
 categories:
   - Community Service
   - Events
