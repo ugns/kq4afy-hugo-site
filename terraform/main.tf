@@ -27,13 +27,30 @@ resource "aws_amplify_branch" "main" {
   app_id                      = aws_amplify_app.website.id
   branch_name                 = "main"
   stage                       = "PRODUCTION"
-  enable_pull_request_preview = false
+  enable_pull_request_preview = true
   framework                   = "Web"
 }
 
 resource "aws_amplify_domain_association" "website" {
   app_id                 = aws_amplify_app.website.id
   domain_name            = var.domain_name
+  enable_auto_sub_domain = true
+
+  certificate_settings {
+    custom_certificate_arn = data.aws_acm_certificate.this.arn
+    type                   = "CUSTOM"
+  }
+
+  sub_domain {
+    branch_name = aws_amplify_branch.main.branch_name
+    prefix      = ""
+  }
+}
+
+resource "aws_amplify_domain_association" "alias" {
+  for_each               = toset(var.aliases)
+  app_id                 = aws_amplify_app.website.id
+  domain_name            = each.key
   enable_auto_sub_domain = true
 
   certificate_settings {
